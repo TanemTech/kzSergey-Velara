@@ -1,0 +1,1312 @@
+{
+  "schema_version": 1,
+  "exporter_version": "6.4.17",
+  "exported_at": "2026-10-05T13:26:26.202400+00:00",
+  "source_url": "https://2gis.kz/almaty/firm/70000001109698727",
+  "source_platform": "2gis",
+  "resolved_url": "https://2gis.kz/almaty/firm/70000001109698727",
+  "organization_id": "70000001109698727",
+  "tan_id": "TAN-003",
+  "type": "master",
+  "organization": {
+    "name": "Velara",
+    "description": "Velara, салон красоты: адреса со входами на карте, отзывы, фото, номера телефонов, время работы и как доехать. Женский педикюр, Наращивание гелем, Наращивание акрилом, Мужской маникюр, Детский маникюр, Японский маникюр, Гель-лак, Аппаратный маникюр, Парафиновые ванночки, Мужской педикюр",
+    "address": "Проспект Назарбаева, 226",
+    "status_and_hours": "Открыто · Ежедневно с 10:00 до 22:00",
+    "phones": [
+      "+77272799007",
+      "+77019496008"
+    ],
+    "websites": [
+      "https://zapis.kz/salon/13073"
+    ],
+    "booking_links": [
+      "tel:+77019496008",
+      "https://link.2gis.com/4.2/F376E558/aHR0cHM6Ly9hcHAuYXJuaWNhLnByby9ib29raW5nL2Jvb2tpbmc%2Fb3JnaWQ9NzAxNTUjL21haW4KaHR0cHM6Ly9zMS5ic3MuMmdpcy5jb20vYnNzLzMKW3siY29tbW9uIjp7ImZvcm1hdFZlcnNpb24iOjMsImFwcFZlcnNpb24iOiIyMDI2LTEwLTAyLTE3IiwicHJvZHVjdCI6MzQsImFwaWtleSI6ImM3ZjFhNzY5LWM4YTUtNDYzNi1iMTRkLWQ4Yzk4NzgwOGExMiIsImFwaWtleVN0YXR1cyI6MSwiZGV2aWNlTG9jYWxlIjoicnVfS1oiLCJ1c2VyIjoiYWE5YTQ4MzYtYzExMy00MjAyLTg5ODItYzM4OWQxMDhkN2NlIiwiaXAiOiIxODguMjQzLjIyNC42MiIsInNlc3Npb25JZCI6IjFhMThlMDliLWFiZDktNDQyYi05YWUxLTNhZDg2NWNjYmU2YyIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTQuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTU0LjAuMC4wIiwiZGV2aWNlVHlwZSI6ImRlc2t0b3AiLCJwZXJzb25hbERhdGFDb2xsZWN0aW9uQWxsb3dlZCI6dHJ1ZSwidGFiSXNBY3RpdmUiOnRydWV9LCJ1dGNPZmZzZXQiOiIrMDM6MDAiLCJ0YWJJZCI6IjMyZTFhYWExLTk3NmItNDI2Ni04OWZlLTJjMzY3NDgzNGJhNSIsInRpbWVzdGFtcCI6MTc5MTIwNjg2NDI5MCwidHlwZSI6MjExLCJldmVudFR5cGUiOiJhY3Rpb24iLCJldmVudElkIjoiZTBjNGFkZGYtOTE5OS00M2E2LWFhOGEtZjAwNzUyZDZmM2NkIiwiYWN0aW9uVHlwZSI6ImV4dGVybmFsTGluayIsImV2ZW50T3JkaW5hbCI6MCwidWlFbGVtZW50Ijp7Im5hbWUiOiJjYWxsVG9BY3Rpb25CdXR0b24iLCJvd25lck5hbWUiOiJhZHNCYW5uZXIiLCJwb3NpdGlvbiI6MywiZnJhbWVVdWlkIjoiZGIwMzJhZGEtOTliMC00ZTcyLThhZDEtN2E4Zjc4YTczMjZhIn0sInBheWxvYWQiOnsiY2FsbFRvQWN0aW9uIjp7ImFjdGlvblR5cGUiOiJsaW5rIiwidmFsdWUiOiJodHRwOi8vbGluay4yZ2lzLnJ1LzEuMi8yOUY1RTk4Qi9vbmxpbmUvMjAyNjEwMDEvcHJvamVjdDY3LzcwMDAwMDAxMDY2NjYwNDY1L251bGwvamRwNG03djk0ZGY1ZUE4ZDRKOEhHNElBSEdJSUdIMkpxZURjcnFEeWVkLTk4NjMwMTMxNjk4Nkk3NzY5MTQ4Ny03MEIwMDRkMzcwNEoyOEMzOTJDNTc1N0gxSTNKSDU1aWZCNmZjaGQ2NTg1RzRHMjAzMjAwMDEwSDFKM0k0MjY3Qz9odHRwczovL2FwcC5hcm5pY2EucHJvL2Jvb2tpbmcvYm9va2luZz9vcmdpZD03MDE1NSMvbWFpbiJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDExMDk2OTg3MjciLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X0taIiwic2VnbWVudElkIjoiNjcifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NzYuOTUwOTIzLCJsYXQiOjQzLjIzMjgxNn0sIm1haW5SdWJyaWMiOiI1NjAzIiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiNzAwMDAwMDExMDk2OTg3MjYiLCJoYXNNb2RlbCI6ZmFsc2V9LCJhZHNCYW5uZXIiOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNjY2NjA0NjUiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X0taIiwic2VnbWVudElkIjoiNjcifX0sIm1haW5SdWJyaWMiOiIzMDUiLCJvcmciOiI3MDAwMDAwMTA2NjY2MDQ2NCIsImFkc0FsZ29yaXRobSI6MjAsImF1Y3Rpb25JZCI6IjZjMGNhNDRkLTE0MzItNDcxZi04MmQ2LTJjN2Q1N2U4ODQ5YSIsImNvbnRleHRSdWJyaWMiOiIzMDUiLCJwb3NpdGlvbiI6MywiYWRzSGlnaGxpZ2h0IjpmYWxzZX0sImV4dGVybmFsTGluayI6eyJmb3JrRXZlbnRPcmRpbmFsIjoxMCwicGFyZW50VGFiSWQiOiI4NWVlYTNmYy1lOWNiLTQyNjctYjJlMS1kNTYyODk2NjYxZjEifX0sImFiVGVzdCI6W3sibmFtZSI6Ik1hcFJlZGVzaWduIiwidmFsdWUiOiJmdWxsTWFwUmVkZXNpZ25fMSJ9LHsibmFtZSI6ImFkTWFya2Vyc0J1YmJsZVdpdGhCZyIsInZhbHVlIjoibmV3QWRNYXJrZXJzXzIifSx7Im5hbWUiOiJkYXNoYm9hcmRSZWRlc2lnbiIsInZhbHVlIjoicmVkZXNpZ25Hcm91cF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNDUwLCJoZWlnaHQiOjk1MH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjE0NTAsImhlaWdodCI6OTUwfX0sInVzZXJTZXR0aW5ncyI6eyJtYXAiOnsiZWZmZWN0c0xldmVsIjoiZGVmYXVsdCIsIjNkTWFwIjp0cnVlfX19XQ%3D%3D",
+      "https://link.2gis.com/4.2/5123CE5D/aHR0cDovL2FwaS53aGF0c2FwcC5jb20vc2VuZC8%2FcGhvbmU9NzcwMTE3MjYzMzMmdGV4dD0lRDAlOTclRDAlQjQlRDElODAlRDAlQjAlRDAlQjIlRDElODElRDElODIlRDAlQjIlRDElODMlRDAlQjklRDElODIlRDAlQjUhJTBBJTBBJUQwJTlGJUQwJUI4JUQxJTg4JUQxJTgzKyVEMCVCOCVEMCVCNyslRDAlQkYlRDElODAlRDAlQjglRDAlQkIlRDAlQkUlRDAlQjYlRDAlQjUlRDAlQkQlRDAlQjglRDElOEYrMiVEMCU5MyVEMCU5OCVEMCVBMS4lMEElMEEmdHlwZT1waG9uZV9udW1iZXImYXBwX2Fic2VudD0wCmh0dHBzOi8vczEuYnNzLjJnaXMuY29tL2Jzcy8zClt7ImNvbW1vbiI6eyJmb3JtYXRWZXJzaW9uIjozLCJhcHBWZXJzaW9uIjoiMjAyNi0xMC0wMi0xNyIsInByb2R1Y3QiOjM0LCJhcGlrZXkiOiJjN2YxYTc2OS1jOGE1LTQ2MzYtYjE0ZC1kOGM5ODc4MDhhMTIiLCJhcGlrZXlTdGF0dXMiOjEsImRldmljZUxvY2FsZSI6InJ1X0taIiwidXNlciI6ImFhOWE0ODM2LWMxMTMtNDIwMi04OTgyLWMzODlkMTA4ZDdjZSIsImlwIjoiMTg4LjI0My4yMjQuNjIiLCJzZXNzaW9uSWQiOiIxYTE4ZTA5Yi1hYmQ5LTQ0MmItOWFlMS0zYWQ4NjVjY2JlNmMiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTU0LjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1NC4wLjAuMCIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiJmYWI1YWMwNi0zMzYxLTRhYjYtYjdmYS00NGRlNzk5ZTcwNTUiLCJ0aW1lc3RhbXAiOjE3OTEyMDY4NjQyOTAsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6ImJhMGU4NWNiLWM4NjctNDQ0Ny05NGMwLTRjNDA3NzYwNTBlNiIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoiYWRzQmFubmVyIiwicG9zaXRpb24iOjQsImZyYW1lVXVpZCI6ImRiMDMyYWRhLTk5YjAtNGU3Mi04YWQxLTdhOGY3OGE3MzI2YSJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvMTA1OUE3OTgvb25saW5lLzIwMjYxMDAxL3Byb2plY3Q2Ny83MDAwMDAwMTA1NzU1ODQ4OC9udWxsL3BuaWwzd0EzNGRmNWVBOGQ0SjhIRzRJQUhHSUlHSDJKQWl5bXVobnNlZC05ODYzMDEzMTY5ODZJNjg1ODk0QUEtNzBCMDA0ZDM3MDRKMjhDMzkyQzU3NTdIMUkzSkg1NWlmQjZmY2hkNjU4NUc0RzIwMzIwMDAxMEgxSjNJNDI2NTY%2FaHR0cDovL2FwaS53aGF0c2FwcC5jb20vc2VuZC8%2FcGhvbmU9NzcwMTE3MjYzMzMmdGV4dD0lRDAlOTclRDAlQjQlRDElODAlRDAlQjAlRDAlQjIlRDElODElRDElODIlRDAlQjIlRDElODMlRDAlQjklRDElODIlRDAlQjUhJTBBJTBBJUQwJTlGJUQwJUI4JUQxJTg4JUQxJTgzKyVEMCVCOCVEMCVCNyslRDAlQkYlRDElODAlRDAlQjglRDAlQkIlRDAlQkUlRDAlQjYlRDAlQjUlRDAlQkQlRDAlQjglRDElOEYrMiVEMCU5MyVEMCU5OCVEMCVBMS4lMEElMEEmdHlwZT1waG9uZV9udW1iZXImYXBwX2Fic2VudD0wIn0sInBsYWNlSXRlbSI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTEwOTY5ODcyNyIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfS1oiLCJzZWdtZW50SWQiOiI2NyJ9fSwiZ2VvUG9zaXRpb24iOnsibG9uIjo3Ni45NTA5MjMsImxhdCI6NDMuMjMyODE2fSwibWFpblJ1YnJpYyI6IjU2MDMiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTEwOTY5ODcyNiIsImhhc01vZGVsIjpmYWxzZX0sImFkc0Jhbm5lciI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTA1NzU1ODQ4OCIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfS1oiLCJzZWdtZW50SWQiOiI2NyJ9fSwibWFpblJ1YnJpYyI6IjMwNSIsIm9yZyI6IjcwMDAwMDAxMDU3NTU4NDg3IiwiYWRzQWxnb3JpdGhtIjoyMCwiYXVjdGlvbklkIjoiNmMwY2E0NGQtMTQzMi00NzFmLTgyZDYtMmM3ZDU3ZTg4NDlhIiwiY29udGV4dFJ1YnJpYyI6IjMwNSIsInBvc2l0aW9uIjo0LCJhZHNIaWdobGlnaHQiOmZhbHNlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjEwLCJwYXJlbnRUYWJJZCI6Ijg1ZWVhM2ZjLWU5Y2ItNDI2Ny1iMmUxLWQ1NjI4OTY2NjFmMSJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoiTWFwUmVkZXNpZ24iLCJ2YWx1ZSI6ImZ1bGxNYXBSZWRlc2lnbl8xIn0seyJuYW1lIjoiYWRNYXJrZXJzQnViYmxlV2l0aEJnIiwidmFsdWUiOiJuZXdBZE1hcmtlcnNfMiJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE0NTAsImhlaWdodCI6OTUwfSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d",
+      "https://link.2gis.com/4.2/29783B37/aHR0cHM6Ly9kaWtpZGkucnUvMTk4MTkwNApodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMTAtMDItMTciLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9LWiIsInVzZXIiOiJhYTlhNDgzNi1jMTEzLTQyMDItODk4Mi1jMzg5ZDEwOGQ3Y2UiLCJpcCI6IjE4OC4yNDMuMjI0LjYyIiwic2Vzc2lvbklkIjoiMWExOGUwOWItYWJkOS00NDJiLTlhZTEtM2FkODY1Y2NiZTZjIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1NC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTQuMC4wLjAiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiOWQzNWJlNDMtODc1NS00ZTBmLTgxNzAtZDBiMTg3MDNkNmU4IiwidGltZXN0YW1wIjoxNzkxMjA2ODY0MjkxLCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiI5MmIxMTI2MS1kMjBlLTRlNjgtOWRkNS1mYjkwNjBjYjY3YWQiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNhbGxUb0FjdGlvbkJ1dHRvbiIsIm93bmVyTmFtZSI6ImFkc0Jhbm5lciIsInBvc2l0aW9uIjo1LCJmcmFtZVV1aWQiOiJkYjAzMmFkYS05OWIwLTRlNzItOGFkMS03YThmNzhhNzMyNmEifSwicGF5bG9hZCI6eyJjYWxsVG9BY3Rpb24iOnsiYWN0aW9uVHlwZSI6ImxpbmsiLCJ2YWx1ZSI6Imh0dHA6Ly9saW5rLjJnaXMucnUvMS4yLzJFQzMzODE1L29ubGluZS8yMDI2MTAwMS9wcm9qZWN0NjcvNzAwMDAwMDEwMjkyNDcxMDcvbnVsbC9zZ242NjhobTRkZjVlQThkNEo4SEc0SUFIR0lJR0gySnhmbTVuNzc5ZWQtOTg2MzAxMzE2OTg2STNBMjc4MTI5LTcwQjAwNGQzNzA0SjI4QzM5MkM1NzU3SDFJM0pINTVpZkI2ZmNoZDY1ODVHNEcyMDMyMDAwMTBIMUozSTQyNjE5P2h0dHBzOi8vZGlraWRpLnJ1LzE5ODE5MDQifSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMTA5Njk4NzI3IiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9LWiIsInNlZ21lbnRJZCI6IjY3In19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjc2Ljk1MDkyMywibGF0Ijo0My4yMzI4MTZ9LCJtYWluUnVicmljIjoiNTYwMyIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMTA5Njk4NzI2IiwiaGFzTW9kZWwiOmZhbHNlfSwiYWRzQmFubmVyIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDI5MjQ3MTA3IiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9LWiIsInNlZ21lbnRJZCI6IjY3In19LCJtYWluUnVicmljIjoiMzA1Iiwib3JnIjoiNzAwMDAwMDEwMjkyNDcxMDYiLCJhZHNBbGdvcml0aG0iOjIwLCJhdWN0aW9uSWQiOiI2YzBjYTQ0ZC0xNDMyLTQ3MWYtODJkNi0yYzdkNTdlODg0OWEiLCJjb250ZXh0UnVicmljIjoiMzA1IiwicG9zaXRpb24iOjUsImFkc0hpZ2hsaWdodCI6ZmFsc2V9LCJleHRlcm5hbExpbmsiOnsiZm9ya0V2ZW50T3JkaW5hbCI6MTAsInBhcmVudFRhYklkIjoiODVlZWEzZmMtZTljYi00MjY3LWIyZTEtZDU2Mjg5NjY2MWYxIn19LCJhYlRlc3QiOlt7Im5hbWUiOiJNYXBSZWRlc2lnbiIsInZhbHVlIjoiZnVsbE1hcFJlZGVzaWduXzEifSx7Im5hbWUiOiJhZE1hcmtlcnNCdWJibGVXaXRoQmciLCJ2YWx1ZSI6Im5ld0FkTWFya2Vyc18yIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18xIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMSJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjoxNDUwLCJoZWlnaHQiOjk1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D"
+    ],
+    "rating": "4.8",
+    "review_count": "76",
+    "coordinates": {
+      "longitude": "76.950923",
+      "latitude": "43.232816"
+    },
+    "social_links": [
+      "https://instagram.com/velara.beauty.studio",
+      "https://wa.me/77718086666?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A",
+      "http://api.whatsapp.com/send/?phone=77011726333&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83+%D0%B8%D0%B7+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F+2%D0%93%D0%98%D0%A1.%0A%0A&type=phone_number&app_absent=0"
+    ]
+  },
+  "services": [],
+  "reviews": [
+    {
+      "author": "Apple User",
+      "date": "23 августа 2026",
+      "rating": "5",
+      "text": "Очень довольна ламинированием ресниц! ✨ Ресницы стали красиво подкрученными, выразительными и визуально длиннее. Результат получился аккуратным и естественным — именно то, что я хотела. Спасибо мастеру Сеним за бережную работу и прекрасный результат! Обязательно приду ещё 💕 Частый гость",
+      "raw_text": "AU Apple User 27 отзывов 23 августа 2026, изменён Очень довольна ламинированием ресниц! ✨ Ресницы стали красиво подкрученными, выразительными и визуально длиннее. Результат получился аккуратным и естественным — именно то, что я хотела. Спасибо мастеру Сеним за бережную работу и прекрасный результат! Обязательно приду ещё 💕 Читать целиком Частый гость Отзыв подтверждён Полезно? Vс Velara, салон красоты 27 июля 2026, официальный ответ Добрый день , Apple! Благодарим за отзыв и оценку!!! Успехов вам! 🧡"
+    },
+    {
+      "author": "Yekaterina Sleptsova",
+      "date": "20 августа 2026",
+      "rating": "5",
+      "text": "Огромное спасибо за преображение! Цвет получился именно таким, как я хотела. Отдельная благодарность за бережное отношение к волосам и полезные советы по уходу, мастеру Мухаммеду ❤️ Частый гость",
+      "raw_text": "YS Yekaterina Sleptsova 7 отзывов 20 августа 2026 Огромное спасибо за преображение! Цвет получился именно таким, как я хотела. Отдельная благодарность за бережное отношение к волосам и полезные советы по уходу, мастеру Мухаммеду ❤️ Читать целиком Частый гость Отзыв подтверждён Полезно? Vс Velara, салон красоты 22 августа 2026, официальный ответ Здравствуйте, Yekaterina! Благодарим за теплые слова. Мы работаем для вас."
+    },
+    {
+      "author": "ТЁМЫЧ ЛОЛ",
+      "date": "22 сентября 2026",
+      "rating": "5",
+      "text": "Был на проколе мочки уха у мастера Таисии , все было быстро аккуратно стерильно",
+      "raw_text": "ТЁМЫЧ ЛОЛ 3 отзыва 22 сентября 2026 Был на проколе мочки уха у мастера Таисии , все было быстро аккуратно стерильно 3 посещения Отзыв подтверждён Полезно? Vс Velara, салон красоты 27 сентября 2026, официальный ответ Спасибо вам большое за приятный отзыв 😉 Ждем вас в гости снова и снова ❤"
+    },
+    {
+      "author": "Самал Утегулова",
+      "date": "27 сентября 2026",
+      "rating": "5",
+      "text": "Который раз хожу к мастеру Тахмина- очень вежливая, аккуратная в работе ❤️❤️❤️",
+      "raw_text": "Самал Утегулова 9 отзывов 27 сентября 2026 Который раз хожу к мастеру Тахмина- очень вежливая, аккуратная в работе ❤️❤️❤️ 3 посещения Отзыв подтверждён Полезно? Vс Velara, салон красоты 27 сентября 2026, официальный ответ Добрый день. Спасибо, Самал, за отзыв и оценку 💛 Мы рады, что вам всё понравилось 🤗"
+    },
+    {
+      "author": "Taisiya Massage",
+      "date": "14 сентября 2026",
+      "rating": "5",
+      "text": "Классный салон, шикарная руководитель, отличный коллектив и я с ними",
+      "raw_text": "Taisiya Massage 11 отзывов 14 сентября 2026 Классный салон, шикарная руководитель, отличный коллектив и я с ними 3 посещения Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Zhanar Yegizbay",
+      "date": "6 сентября 2026",
+      "rating": "5",
+      "text": "Мастер Тахмина сделала очень красивые и аккуратные ногти🤍 работает очень бережно и профессионально, спасибо",
+      "raw_text": "Zhanar Yegizbay 5 отзывов 6 сентября 2026 Мастер Тахмина сделала очень красивые и аккуратные ногти🤍 работает очень бережно и профессионально, спасибо 1 посещение Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Kamila",
+      "date": "14 июля 2026",
+      "rating": "5",
+      "text": "Отличный салон! Бурак бей прям мастер на все руки 🫰🏻 Частый гость",
+      "raw_text": "K Kamila 3 отзыва 14 июля 2026, изменён Отличный салон! Бурак бей прям мастер на все руки 🫰🏻 Частый гость Отзыв подтверждён 1 Полезно? Vс Velara, салон красоты 16 июля 2026, официальный ответ Спасибо, Kamila, Мы стараемся.❤️"
+    },
+    {
+      "author": "Бумпа Пимба",
+      "date": "16 июля 2026",
+      "rating": "5",
+      "text": "Приятные люди, но укладку мне делали на волосы, вымытые только шампунем и может быть кондиционер. Никакого другого ухода, молчу про термозащиту. И вроде в конце обильно нанесли лак для закрепления, но укладка рассыпалась за час( И потратила на это 15000",
+      "raw_text": "БП Бумпа Пимба 26 отзывов 16 июля 2026, изменён Приятные люди, но укладку мне делали на волосы, вымытые только шампунем и может быть кондиционер. Никакого другого ухода, молчу про термозащиту. И вроде в конце обильно нанесли лак для закрепления, но укладка рассыпалась за час( И потратила на это 15000 Читать целиком 1 посещение Отзыв подтверждён Полезно? Vс Velara, салон красоты 19 июля 2026, официальный ответ Добрый день! Напишите пожалуйста когда именно Вы посещали наш салон, имя мастера , у которого обслуж…"
+    },
+    {
+      "author": "Madina Rashidova",
+      "date": "8 июля 2026",
+      "rating": "5",
+      "text": "Мастер Сенім 🔥🔥🔥🔥 Однозначно рекомендую😍😍😍🤍 Самая топовая.Работает очень качественно, всё подскажет и сделает просто идеально Очень довольна результатом😍 Салон да Сервис топ 🔥🔥",
+      "raw_text": "MR Madina Rashidova 7 отзывов 8 июля 2026 Мастер Сенім 🔥🔥🔥🔥 Однозначно рекомендую😍😍😍🤍 Самая топовая.Работает очень качественно, всё подскажет и сделает просто идеально Очень довольна результатом😍 Салон да Сервис топ 🔥🔥 Читать целиком 1 посещение Отзыв подтверждён 1 Полезно? Vс Velara, салон красоты 9 июля 2026, официальный ответ Madina, здравствуйте! Спасибо, что выбираете нас! Ждём вас в гости снова 🙏🏼"
+    },
+    {
+      "author": "Sibel Kartalkayassy",
+      "date": "21 марта 2026",
+      "rating": "5",
+      "text": "Мастер Сеним , сделала наращивание ногтей, все понравилось!!! очень красиво 😍",
+      "raw_text": "SK Sibel Kartalkayassy 5 отзывов 21 марта 2026 Мастер Сеним , сделала наращивание ногтей, все понравилось!!! очень красиво 😍 2 посещения Отзыв подтверждён 1 Полезно?"
+    },
+    {
+      "author": "Газиза Мусаева",
+      "date": "21 апреля 2026",
+      "rating": "5",
+      "text": "Мастер Сеним очень классная! Очень качественно и быстро сделала мне наращивание причем все качественно, аккуратно, безболезненно и главное красиво 🥹И на общение очень приятная.",
+      "raw_text": "ГМ Газиза Мусаева 7 отзывов 21 апреля 2026 Мастер Сеним очень классная! Очень качественно и быстро сделала мне наращивание причем все качественно, аккуратно, безболезненно и главное красиво 🥹И на общение очень приятная. Читать целиком 2 посещения Отзыв подтверждён 1 Полезно?"
+    },
+    {
+      "author": "Elina Kim",
+      "date": "13 апреля 2026",
+      "rating": "5",
+      "text": "Очень классно подстригли и уложили, спасибо 🫶🏻",
+      "raw_text": "EK Elina Kim 24 отзыва 13 апреля 2026 Очень классно подстригли и уложили, спасибо 🫶🏻 2 посещения Отзыв подтверждён Полезно? Vс Velara, салон красоты 21 апреля 2026, официальный ответ Добрый день! Спасибо вам большое за добрые слова 🙏 Ждём вас снова!"
+    },
+    {
+      "author": "Gulmira Abisheva",
+      "date": "8 мая 2026",
+      "rating": "5",
+      "text": "Мне понравилась мастер Тахмина.Приятная,добрая девушка,видно любит свою работу,сделала маникюр и педикюр очень деликатно и аккурвтно.",
+      "raw_text": "GA Gulmira Abisheva 2 отзыва 8 мая 2026, изменён Мне понравилась мастер Тахмина.Приятная,добрая девушка,видно любит свою работу,сделала маникюр и педикюр очень деликатно и аккурвтно. 1 посещение Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Наталья Ли",
+      "date": "7 мая 2026",
+      "rating": "5",
+      "text": "Прихожу в салон за хорошим настроением, у мастера Тахмины хорошая энергетика, которая профессионал своего дела, не бывает такого что уходишь с плохим настроением, спасибо ☺️",
+      "raw_text": "Наталья Ли 15 отзывов 7 мая 2026 Прихожу в салон за хорошим настроением, у мастера Тахмины хорошая энергетика, которая профессионал своего дела, не бывает такого что уходишь с плохим настроением, спасибо ☺️ Читать целиком 1 посещение Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Atina Yeskaliyeva",
+      "date": "4 мая 2026",
+      "rating": "5",
+      "text": "Делала маникюр в салоне у мастера Сеним, все очень понравилось, качественный маникюр, отличная беседа, обязательно вернусь😍",
+      "raw_text": "Atina Yeskaliyeva 7 отзывов 4 мая 2026 Делала маникюр в салоне у мастера Сеним, все очень понравилось, качественный маникюр, отличная беседа, обязательно вернусь😍 1 посещение Отзыв подтверждён 1 Полезно?"
+    },
+    {
+      "author": "Марьям Мукадамова",
+      "date": "27 марта 2026",
+      "rating": "5",
+      "text": "Была на днях в вашем салоне ☺️ Мастер по имени Тахмина просто уау🥰 Так красиво сделала ногти ) спасибо ей 🥰 довольнаяяя я 🤗🥰",
+      "raw_text": "ММ Марьям Мукадамова 8 отзывов 27 марта 2026 Была на днях в вашем салоне ☺️ Мастер по имени Тахмина просто уау🥰 Так красиво сделала ногти ) спасибо ей 🥰 довольнаяяя я 🤗🥰 1 посещение Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Дана Байбекова",
+      "date": "5 мая 2026",
+      "rating": "5",
+      "text": "Тахмина классно делает маникюр и педикюр, рекомендую !",
+      "raw_text": "ДБ Дана Байбекова 2 отзыва 5 мая 2026 Тахмина классно делает маникюр и педикюр, рекомендую ! 1 посещение Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Ekaterina Mobile",
+      "date": "11 августа 2026",
+      "rating": "5",
+      "text": "мастер Сеним очень вежливая и аккуратная 🌹 *такой переход цвета я захотела сама 😅 1",
+      "raw_text": "EM Ekaterina Mobile 6 отзывов 11 августа 2026 мастер Сеним очень вежливая и аккуратная 🌹 *такой переход цвета я захотела сама 😅 1 Полезно? Vс Velara, салон красоты 15 августа 2026, официальный ответ Ekaterina! Спасибо вам большое за высокую оценку ❤ Приходите, будем рады вас видеть 🙏🏼"
+    },
+    {
+      "author": "Zhnl Zxz",
+      "date": "8 января 2026",
+      "rating": "5",
+      "text": "Божеее, Зашла просто узнать стоимость… и вышла довольная как слон 🥹 Волосы — просто топ, с первого раза поняли, какой тон я хочу) Спасибо за атмосферу, аккуратность и результат, который превзошёл ожидания. Теперь только к вам 🥰",
+      "raw_text": "Zhnl Zxz 20 отзывов 8 января 2026 Божеее, Зашла просто узнать стоимость… и вышла довольная как слон 🥹 Волосы — просто топ, с первого раза поняли, какой тон я хочу) Спасибо за атмосферу, аккуратность и результат, который превзошёл ожидания. Теперь только к вам 🥰 Читать целиком 2 посещения Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Тахмина Айтахунова",
+      "date": "7 декабря 2025",
+      "rating": "5",
+      "text": "Все мастера супер 👌🫶🙂 Обслуживание на высшем уровне 🔥🔥🔥 Мне Очень понравилось 😻 Частый гость",
+      "raw_text": "Тахмина Айтахунова 3 отзыва 7 декабря 2025, изменён Все мастера супер 👌🫶🙂 Обслуживание на высшем уровне 🔥🔥🔥 Мне Очень понравилось 😻 Частый гость Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Айми .",
+      "date": "28 ноября 2025",
+      "rating": "5",
+      "text": "обслужили очень быстро и хорошо🥰",
+      "raw_text": "Айми . 12 отзывов 28 ноября 2025 обслужили очень быстро и хорошо🥰 2 посещения Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Fermo Tezzo",
+      "date": "31 июля 2026",
+      "rating": "5",
+      "text": "Очень хороший салон красоты, предложили чай/кофе, сделал мужской педикюр, ноги стали легче. Спасибо мастеру Тахмине за аккуратную работу.",
+      "raw_text": "Fermo Tezzo 16 отзывов 31 июля 2026 Очень хороший салон красоты, предложили чай/кофе, сделал мужской педикюр, ноги стали легче. Спасибо мастеру Тахмине за аккуратную работу. Полезно? Vс Velara, салон красоты 2 августа 2026, официальный ответ Здравствуйте, Fermo! Спасибо вам большое за добрые слова о нашей работе!!! Приходите к нам ещё, всегда рады 🤝"
+    },
+    {
+      "author": "Аиша Анес",
+      "date": "29 июля 2026",
+      "rating": "5",
+      "text": "Мастер Сенім спасибо большое ! Всё было сделано качественно, аккуратно и красиво. Очень понравился результат. Мастер внимательный и приятный, всё прошло отлично. Обязательно приду ещё! 1",
+      "raw_text": "Аиша Анес 7 отзывов 29 июля 2026 Мастер Сенім спасибо большое ! Всё было сделано качественно, аккуратно и красиво. Очень понравился результат. Мастер внимательный и приятный, всё прошло отлично. Обязательно приду ещё! Читать целиком 1 Полезно? Vс Velara, салон красоты 30 июля 2026, официальный ответ Спасибо за такие тёплые слова!😍Нам очень приятно 🤍Ждём вас снова✨"
+    },
+    {
+      "author": "Айя Гайя",
+      "date": "5 июня 2026",
+      "rating": "5",
+      "text": "Хочу от всей души поблагодарить замечательного мастера Сеним! 💖 Я очень долго искала своего мастера, так как на постоянной основе делаю маникюр с укреплением и наращивание ногтей. Для меня важно не только качество работы, но и профессионализм, аккуратность и отношение к клиенту. И я безумно рада, что наконец-то нашла именно такого специалиста! Сеним мастер с золотыми руками. Каждый ноготок выполнен идеально, очень аккуратно и с любовью к своему делу. Результат превзошёл все мои ожидания я просто в восторге от такой красоты! 😍 Отдельное спасибо за комфортную атмосферу, внимание к пожеланиям и приятное общение. Видно, что человек действительно любит свою работу и делает её на высшем уровне. Теперь только к вам! Спасибо за ваш труд, красоту и хорошее настроение. Искренне рекомендую всем, кто ищет настоящего профессионала своего дела! 🌷✨ Еще салон разыгрывает айфон всем удачи там весь персонал очень крутой 🥰 1",
+      "raw_text": "Айя Гайя 6 отзывов 5 июня 2026, изменён Хочу от всей души поблагодарить замечательного мастера Сеним! 💖 Я очень долго искала своего мастера, так как на постоянной основе делаю маникюр с укреплением и наращивание ногтей. Для меня важно не только качество работы, но и профессионализм, аккуратность и отношение к клиенту. И я безумно рада, что наконец-то нашла именно такого специалиста! Сеним мастер с золотыми руками. Каждый ноготок выполнен идеально, очень аккуратно и с любовью к своему делу. Результат превзошёл все мои ожидания я просто в восторге от такой красоты! 😍 Отдельное спасибо за комфортную атмосферу, внимание к пожеланиям и приятное общение. Видно, что человек действительно любит свою работу и делает её на высшем уровне. Теперь только к вам! Спасибо за ваш труд, красоту и хорошее настроение. Искренне рекомендую всем, кто ищет настоящего профессионала своего дела! 🌷✨ Еще салон разыгрывает айфон всем удачи там весь персонал очень крутой 🥰 Читать целиком 1 Полезно? Vс Velara, салон красоты 17 июня 2026, официальный ответ Большое спасибо за ваш тёплый отзыв! Нам очень приятно,что вы остались довольны работой нашего масте…"
+    },
+    {
+      "author": "Aneli Ismailova",
+      "date": "1 марта 2026",
+      "rating": "5",
+      "text": "Простите конечно, но никому не советую данный салон Была на услугах маникюра и стрижки Маникюр сделали ужасный, наращивание просто на 0 уровне, сама мастер очень приятная, но наращивать ногти явно не умеет Все ногти разной длины, форма у всех кривая Сидела на минуточку почти 4 часа По поводу стрижки: сказали стрижка+укладка 15тыс, я согласилась, по итогу мне помыли голову, выпрямили волосы и машинкой ровно срезали волосы Подстригли конечно нормально, но укладку не сделали Администратор сказала что раз не было укладки 12тыс стрижка обойдется, то есть сначала говорят что сделают укладку, а по факту не сделали. А если у меня были какие-то планы на укладку? Вдруг она была мне нужна Не приятно просто по факту узнавать что ее не сделают За такую услугу в любом салоне отдала бы не больше 8-10тыс, и укладку бы еще сделали шикарную Персонал очень хороший, но цены завышены и услуги оказывают не по уровню стоимости Администрация постаралась решить вопрос с наращиваем, сделали оплату только за материал, за что им конечно спасибо, но потраченное время и настроение не вернуть Думала что не буду писать негативный отзыв, но решила что могу уберечь кого-то от потраченных в пустую денег и времени",
+      "raw_text": "Aneli Ismailova 10 отзывов 1 марта 2026 Простите конечно, но никому не советую данный салон Была на услугах маникюра и стрижки Маникюр сделали ужасный, наращивание просто на 0 уровне, сама мастер очень приятная, но наращивать ногти явно не умеет Все ногти разной длины, форма у всех кривая Сидела на минуточку почти 4 часа По поводу стрижки: сказали стрижка+укладка 15тыс, я согласилась, по итогу мне помыли голову, выпрямили волосы и машинкой ровно срезали волосы Подстригли конечно нормально, но укладку не сделали Администратор сказала что раз не было укладки 12тыс стрижка обойдется, то есть сначала говорят что сделают укладку, а по факту не сделали. А если у меня были какие-то планы на укладку? Вдруг она была мне нужна Не приятно просто по факту узнавать что ее не сделают За такую услугу в любом салоне отдала бы не больше 8-10тыс, и укладку бы еще сделали шикарную Персонал очень хороший, но цены завышены и услуги оказывают не по уровню стоимости Администрация постаралась решить вопрос с наращиваем, сделали оплату только за материал, за что им конечно спасибо, но потраченное время и настроение не вернуть Думала что не буду писать негативный отзыв, но решила что могу уберечь кого-то от потраченных в пустую денег и времени Читать целиком 1 посещение Отзыв подтверждён 9 Полезно? Vс Velara, салон красоты 12 марта 2026 Сәлеметсіз бе! Өтінеміз, біздің компанияның клиенті болғаныңызды растаңыз. Ол үшін келесі нұсқаларды…"
+    },
+    {
+      "author": "Юлия П",
+      "date": "10 июля 2026",
+      "rating": "5",
+      "text": "Пришла на ботокс волос, я делала биозавивку месяца три назад перед ботоксом, спросила у мастера смогут ли убрать пушистость, сказали смогут. Каждый раз когда мне расчесывали волосы вырывали волосы клочками, было очень больно, после процедуры на следующий день к коже головы было больно прикоснуться. После процедуры волосы выглядели хорошо но на вечер было видно отросшие корни которые были после биозавивки и далее длина которая так и осталась пушистой. Написала на вацап в салон, сказали что нужно было сделать кератин если я хотела прямые волосы и предложили прийти переделать работу, но извините я не прийду, снова вырвут половину волос. За 35 тысяч на тоненькие и не густые волосы мне частично убрали волну и пушистость и вырвали половину волос. (На фото в зеркале фото до, и далее фото после процедуры, не в самом лучшем качестве, но видно прямые корни и полупушистую длину с небольшими волнами)",
+      "raw_text": "Юлия П 6 отзывов 10 июля 2026 Пришла на ботокс волос, я делала биозавивку месяца три назад перед ботоксом, спросила у мастера смогут ли убрать пушистость, сказали смогут. Каждый раз когда мне расчесывали волосы вырывали волосы клочками, было очень больно, после процедуры на следующий день к коже головы было больно прикоснуться. После процедуры волосы выглядели хорошо но на вечер было видно отросшие корни которые были после биозавивки и далее длина которая так и осталась пушистой. Написала на вацап в салон, сказали что нужно было сделать кератин если я хотела прямые волосы и предложили прийти переделать работу, но извините я не прийду, снова вырвут половину волос. За 35 тысяч на тоненькие и не густые волосы мне частично убрали волну и пушистость и вырвали половину волос. (На фото в зеркале фото до, и далее фото после процедуры, не в самом лучшем качестве, но видно прямые корни и полупушистую длину с небольшими волнами) Читать целиком Полезно? Vс Velara, салон красоты 12 июля 2026, официальный ответ Юлия добрый день .Мы попросили вас сделать отчет фото,после мытья головы ,но вы проигнорировали нашу… Все комментарии"
+    },
+    {
+      "author": "Ulbolsyn Abimolda - Slot",
+      "date": "28 декабря 2025",
+      "rating": "5",
+      "text": "Супер место. Спасибо Салиху за отличную стрижку моих 3-х пацанов. Примерно 4-5 год мы ходим только к нему и всегда все супер!",
+      "raw_text": "Ulbolsyn Abimolda - Slot 19 отзывов 28 декабря 2025 Супер место. Спасибо Салиху за отличную стрижку моих 3-х пацанов. Примерно 4-5 год мы ходим только к нему и всегда все супер! 1 посещение Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Elvira Niyazova",
+      "date": "4 мая 2026",
+      "rating": "5",
+      "text": "Понравилась мастер Сенім. Очень аккуратный и качественный маникюр. Мастер доброжелательная и вежливая, внимательно учитывает пожелания клиента. Осталась очень довольна дизайном. 2",
+      "raw_text": "Elvira Niyazova 7 отзывов 4 мая 2026, изменён Понравилась мастер Сенім. Очень аккуратный и качественный маникюр. Мастер доброжелательная и вежливая, внимательно учитывает пожелания клиента. Осталась очень довольна дизайном. Читать целиком 2 Полезно?"
+    },
+    {
+      "author": "Асель Хамитова",
+      "date": "25 апреля 2026",
+      "rating": "5",
+      "text": "Очень довольна маникюром 😍 Френч получился просто идеальный — аккуратно, красиво и очень нежно. Мастер Сеним работает внимательно и с душой, все сделано качественно и чисто. Осталась в восторге, обязательно приду еще 💅✨ 1",
+      "raw_text": "АХ Асель Хамитова 3 отзыва 25 апреля 2026, изменён Очень довольна маникюром 😍 Френч получился просто идеальный — аккуратно, красиво и очень нежно. Мастер Сеним работает внимательно и с душой, все сделано качественно и чисто. Осталась в восторге, обязательно приду еще 💅✨ Читать целиком 1 Полезно?"
+    },
+    {
+      "author": "Асель Б",
+      "date": "23 сентября 2026",
+      "rating": "5",
+      "text": "Здравствуйте, хочу оставить отзыв то что Таисия это мастер своего дела,была у нее на шугаринге она всё сделала быстро и без болезненно. А ещё она делает замечательный массажа лица и тела, оздоровительный комплексный массаж тела это просто шикарно,самый лучший мастер и она это всё делает с любовью и заботой",
+      "raw_text": "Асель Б 4 отзыва 23 сентября 2026 Здравствуйте, хочу оставить отзыв то что Таисия это мастер своего дела,была у нее на шугаринге она всё сделала быстро и без болезненно. А ещё она делает замечательный массажа лица и тела, оздоровительный комплексный массаж тела это просто шикарно,самый лучший мастер и она это всё делает с любовью и заботой Читать целиком Полезно? Vс Velara, салон красоты 27 сентября 2026, официальный ответ Асель! Спасибо, что уделили время и написали отзыв 😌 Приходите, будем рады вас видеть 💛"
+    },
+    {
+      "author": "Фатима Бачаева",
+      "date": "17 сентября 2026",
+      "rating": "5",
+      "text": "Самый лучший мастер своего дела Таисия прошла курс массажа все супер на высшем уровне,прям почувствовала облегчение у вас золотые ручки ❤️",
+      "raw_text": "ФБ Фатима Бачаева 3 отзыва 17 сентября 2026 Самый лучший мастер своего дела Таисия прошла курс массажа все супер на высшем уровне,прям почувствовала облегчение у вас золотые ручки ❤️ Полезно? Vс Velara, салон красоты 20 сентября 2026, официальный ответ Добрый вечер! Спасибо за отзыв!!! Приходите, будем рады вас видеть!🌸"
+    },
+    {
+      "author": "Zarina Zandarova",
+      "date": "16 сентября 2026",
+      "rating": "5",
+      "text": "Хочу оставить отзыв о Таисии ❤️ Хожу к ней на шугаринг уже больше 5 лет и за всё это время ни разу не захотела поменять мастера. Таисия — настоящий профессионал своего дела! Всегда аккуратно, быстро, качественно и с заботой о клиенте. Очень приятная атмосфера, всегда комфортно и спокойно. Видно, что человек любит свою работу и относится к ней с душой. За 5 лет я полностью ей доверяю и с уверенностью могу рекомендовать Таисию всем, кто ищет хорошего мастера! 🌷 Таисия, спасибо тебе за твой труд, заботу и красоту! ❤️",
+      "raw_text": "ZZ Zarina Zandarova 2 отзыва 16 сентября 2026 Хочу оставить отзыв о Таисии ❤️ Хожу к ней на шугаринг уже больше 5 лет и за всё это время ни разу не захотела поменять мастера. Таисия — настоящий профессионал своего дела! Всегда аккуратно, быстро, качественно и с заботой о клиенте. Очень приятная атмосфера, всегда комфортно и спокойно. Видно, что человек любит свою работу и относится к ней с душой. За 5 лет я полностью ей доверяю и с уверенностью могу рекомендовать Таисию всем, кто ищет хорошего мастера! 🌷 Таисия, спасибо тебе за твой труд, заботу и красоту! ❤️ Читать целиком Полезно? Vс Velara, салон красоты 16 сентября 2026, официальный ответ Zarina, добрый день! Благодарим за приятный отзыв 😉 Будем стараться и дальше 💛"
+    },
+    {
+      "author": "Ольга Майорова",
+      "date": "16 сентября 2026",
+      "rating": "5",
+      "text": "Большое спасибо Таисия,быстрая окуратная работа,все гладенько, ощущение космос,в работе окуратность и чистоплотность,ваша улыбка заставляет забыть какую процедуру я прохожу💓",
+      "raw_text": "ОМ Ольга Майорова 1 отзыв 16 сентября 2026 Большое спасибо Таисия,быстрая окуратная работа,все гладенько, ощущение космос,в работе окуратность и чистоплотность,ваша улыбка заставляет забыть какую процедуру я прохожу💓 Читать целиком Полезно? Vс Velara, салон красоты 16 сентября 2026, официальный ответ Ольга! Благодарим вас за отзыв и высокую оценку, мы всегда вам рады 💛"
+    },
+    {
+      "author": "Apple Гульвира",
+      "date": "16 сентября 2026",
+      "rating": "5",
+      "text": "Начала заниматься своим здоровьем ❤️ Прохожу курс у Таисии: массаж, термоодеяло и микротоки для спины. Прошло всего 4 дня — энергии стало больше, боли намного меньше 🙏🏻 Таисия — настоящий волшебник всех аппаратов и человек, который знает о теле ВСЁ! 👍 1",
+      "raw_text": "AГ Apple Гульвира 3 отзыва 16 сентября 2026 Начала заниматься своим здоровьем ❤️ Прохожу курс у Таисии: массаж, термоодеяло и микротоки для спины. Прошло всего 4 дня — энергии стало больше, боли намного меньше 🙏🏻 Таисия — настоящий волшебник всех аппаратов и человек, который знает о теле ВСЁ! 👍 Читать целиком 1 Полезно? Vс Velara, салон красоты 16 сентября 2026, официальный ответ Добрый вечер, Apple. Благодарим вас, что уделили время и написали отзыв 😌 Рады сотрудничеству!"
+    },
+    {
+      "author": "Зарина Ушурова",
+      "date": "16 сентября 2026",
+      "rating": "5",
+      "text": "Хочу оставить огромную благодарность мастеру за прекрасную работу! 🥰 Всё прошло очень аккуратно, быстро и практически без дискомфорта. Мастер очень внимательная, вежливая и приятная в общении, чувствуется профессионализм и любовь к своему делу ❤️ Результатом очень довольна — кожа гладкая, всё идеально чисто и аккуратно. Обязательно буду возвращаться снова и с удовольствием рекомендую мастера! 🌷✨Мастер Таисия❤️",
+      "raw_text": "ЗУ Зарина Ушурова 2 отзыва 16 сентября 2026 Хочу оставить огромную благодарность мастеру за прекрасную работу! 🥰 Всё прошло очень аккуратно, быстро и практически без дискомфорта. Мастер очень внимательная, вежливая и приятная в общении, чувствуется профессионализм и любовь к своему делу ❤️ Результатом очень довольна — кожа гладкая, всё идеально чисто и аккуратно. Обязательно буду возвращаться снова и с удовольствием рекомендую мастера! 🌷✨Мастер Таисия❤️ Читать целиком Полезно? Vс Velara, салон красоты 16 сентября 2026, официальный ответ Добрый день, спасибо большое за добрые слова, с нетерпением будем ждать Вашего возвращения ❤️"
+    },
+    {
+      "author": "Ания Наурызбекова",
+      "date": "16 сентября 2026",
+      "rating": "5",
+      "text": "Таисия ,огромная благодарность 🙏 нашла того самого человека,кто смог мне помочь золотые руки ♥️ прошли курс висцерального массажа и классический 🔥🔥🔥 1",
+      "raw_text": "АН Ания Наурызбекова 17 отзывов 16 сентября 2026 Таисия ,огромная благодарность 🙏 нашла того самого человека,кто смог мне помочь золотые руки ♥️ прошли курс висцерального массажа и классический 🔥🔥🔥 Читать целиком 1 Полезно? Vс Velara, салон красоты 16 сентября 2026, официальный ответ Добрый вечер, Ания! Спасибо большое за отзыв 🙏 Будем рады Вас видеть ❤️"
+    },
+    {
+      "author": "Алла Яровая",
+      "date": "31 августа 2026",
+      "rating": "5",
+      "text": "Хочу сказать спасибо мастеру маникюра Сеным!! Это лучший мастер,очень акуратно, очень грамотно делает маникюр. Долго искала мастера с таким опытом и пониманием какой именно маникюр лучше делать. 1",
+      "raw_text": "АЯ Алла Яровая 1 отзыв 31 августа 2026 Хочу сказать спасибо мастеру маникюра Сеным!! Это лучший мастер,очень акуратно, очень грамотно делает маникюр. Долго искала мастера с таким опытом и пониманием какой именно маникюр лучше делать. Читать целиком 1 Полезно? Vс Velara, салон красоты 31 августа 2026, официальный ответ Здравствуйте, Алла. Спасибо большое за приятный отклик 😌 Приходите, будем рады вас видеть."
+    },
+    {
+      "author": "moron syzlak",
+      "date": "13 августа 2026",
+      "rating": "5",
+      "text": "Отличный сервис и супер мастера! Нужен был быстрый маникюр и педикюр утром, мастер Тахмина сделала все на высшем уровне!",
+      "raw_text": "moron syzlak 6 отзывов 13 августа 2026 Отличный сервис и супер мастера! Нужен был быстрый маникюр и педикюр утром, мастер Тахмина сделала все на высшем уровне! Полезно? Vс Velara, салон красоты 14 августа 2026, официальный ответ Добрый вечер. Спасибо вам за высокую оценку. Мы стараемся 😉"
+    },
+    {
+      "author": "Roman Molchanov",
+      "date": "31 мая 2026",
+      "rating": "5",
+      "text": "Огромное спасибо Тахмине, это был мой первый маникюр",
+      "raw_text": "Roman Molchanov 15 отзывов 31 мая 2026 Огромное спасибо Тахмине, это был мой первый маникюр Полезно? Vс Velara, салон красоты 4 июля 2026, официальный ответ Добрый вечер! Спасибо большое за приятный отклик ❤ Будем ждать вас снова 🤝"
+    },
+    {
+      "author": "Кира Баянова",
+      "date": "15 мая 2026",
+      "rating": "5",
+      "text": "Записалась через Zapis.kz, где было четко указано, что мытье головы стоит 3000. По факту взяли 5000. Говорят, что мужское 3000, а женское 5000. Хотя в приложении четко указано, что там женское и 3000 цена. Фото прилагаю. Больше однозначно сюда не приду!",
+      "raw_text": "Кира Баянова 56 отзывов 15 мая 2026, изменён Записалась через Zapis.kz, где было четко указано, что мытье головы стоит 3000. По факту взяли 5000. Говорят, что мужское 3000, а женское 5000. Хотя в приложении четко указано, что там женское и 3000 цена. Фото прилагаю. Больше однозначно сюда не приду! Читать целиком Полезно?"
+    },
+    {
+      "author": "Индира Жунусбай",
+      "date": "2 октября 2026",
+      "rating": "5",
+      "text": "Пришлось удалить свой комментарий только из-за уважения к простым людям которые работают в этом салоне, мое уважение Екатерине и Сеним.",
+      "raw_text": "ИЖ Индира Жунусбай 21 отзыв 2 октября 2026, изменён Пришлось удалить свой комментарий только из-за уважения к простым людям которые работают в этом салоне, мое уважение Екатерине и Сеним. Полезно?"
+    },
+    {
+      "author": "Альта Кожамуратов",
+      "date": "2 сентября 2026",
+      "rating": "5",
+      "text": "Дай бог здоровья моему парикмахеру пусть у него все будет хорошо в жизни, потому что он делает то что ему лучше не надо не ходите сюда 😄 отращивал долго приворотил меня в некрасивого человека если хотите такую же стрижку тогда рекомендую этот салон и волосатого парикмахера еще раз спасибо этому салону 😄😄😄",
+      "raw_text": "Альта Кожамуратов 18 отзывов 2 сентября 2026, изменён Дай бог здоровья моему парикмахеру пусть у него все будет хорошо в жизни, потому что он делает то что ему лучше не надо не ходите сюда 😄 отращивал долго приворотил меня в некрасивого человека если хотите такую же стрижку тогда рекомендую этот салон и волосатого парикмахера еще раз спасибо этому салону 😄😄😄 Читать целиком Полезно? Vс Velara, салон красоты 4 сентября 2026, официальный ответ Здравствуйте! Подтвердите пожалуйста , что Вы были клиентом нашей компании, для этого выберите один… Все комментарии"
+    },
+    {
+      "author": "Svetlana Grigor",
+      "date": "25 сентября 2026",
+      "rating": "5",
+      "text": "Спасибо за эпиляцию Мастеру Сеним. Впервые процедура прошла для меня безболезненно 1",
+      "raw_text": "SG Svetlana Grigor 22 отзыва 25 сентября 2026, изменён Спасибо за эпиляцию Мастеру Сеним. Впервые процедура прошла для меня безболезненно 1 Полезно? Vс Velara, салон красоты 25 сентября 2026, официальный ответ Здравствуйте, Svetlana. Спасибо большое, очень приятно получать обратную связь 🔥 Мы старались 💛"
+    },
+    {
+      "author": "♱ 🪙",
+      "date": "20 сентября 2026",
+      "rating": "5",
+      "text": "отличный салон😍",
+      "raw_text": "♱ 🪙 1 отзыв 20 сентября 2026 отличный салон😍 Полезно? Vс Velara, салон красоты 20 сентября 2026, официальный ответ Добрый день! Огромное спасибо за добрые слова о нашей работе 😌 Мы рады, что вам всё понравилось."
+    },
+    {
+      "author": "$ayle Israilova",
+      "date": "19 сентября 2026",
+      "rating": "5",
+      "text": "Таисия- лучший мастер своего дела ,золотые ручки ❤️приходите не пожалеете 💐. 1",
+      "raw_text": "$ayle Israilova 3 отзыва 19 сентября 2026 Таисия- лучший мастер своего дела ,золотые ручки ❤️приходите не пожалеете 💐. 1 Полезно? Vс Velara, салон красоты 20 сентября 2026, официальный ответ Добрый вечер, спасибо вам за ваш отзыв 😉 Будем рады Вас видеть 🧡"
+    },
+    {
+      "author": "Андрей",
+      "date": "31 августа 2026",
+      "rating": "5",
+      "text": "Классный салон, крутые мастера!!! Рекомендасьон👍👍👍",
+      "raw_text": "А Андрей 32 отзыва 31 августа 2026, изменён Классный салон, крутые мастера!!! Рекомендасьон👍👍👍 Полезно? Vс Velara, салон красоты 4 сентября 2026, официальный ответ Большое спасибо, что выбрали нас. Ждём вас вновь 💛"
+    },
+    {
+      "author": "nu1i2a",
+      "date": "5 августа 2026",
+      "rating": "5",
+      "text": "Хочу выразить огромную благодарность салону! ❤️ Делала маникюр у мастера Сезим-работа просто великолепная, всё выполнено очень аккуратно, красиво и с большим вниманием к деталям. Очень понравился результат!Также хочется отметить весь персонал- все очень вежливые, доброжелательные и внимательные. В салоне невероятно приятная атмосфера, чувствуешь себя комфортно с первых минут. Осталась очень довольна, обязательно вернусь снова! Спасибо вам большое! 🫶 1",
+      "raw_text": "n nu1i2a 5 отзывов 5 августа 2026 Хочу выразить огромную благодарность салону! ❤️ Делала маникюр у мастера Сезим-работа просто великолепная, всё выполнено очень аккуратно, красиво и с большим вниманием к деталям. Очень понравился результат!Также хочется отметить весь персонал- все очень вежливые, доброжелательные и внимательные. В салоне невероятно приятная атмосфера, чувствуешь себя комфортно с первых минут. Осталась очень довольна, обязательно вернусь снова! Спасибо вам большое! 🫶 Читать целиком 1 Полезно? Vс Velara, салон красоты 7 августа 2026, официальный ответ Добрый вечер, Nuriya! Большое спасибо, что оценили 🔥 Всегда рады вам ❤"
+    },
+    {
+      "author": "Qieieiri Qieirittitii",
+      "date": "30 июля 2026",
+      "rating": "5",
+      "text": "Хороший салон , делала педикюр , все на высшем уровне. Пятки гладкие, форма ногтей опрятная, покрытие ровное без «капель». Девушки рекомендую👍",
+      "raw_text": "QQ Qieieiri Qieirittitii 17 отзывов 30 июля 2026 Хороший салон , делала педикюр , все на высшем уровне. Пятки гладкие, форма ногтей опрятная, покрытие ровное без «капель». Девушки рекомендую👍 Полезно? Vс Velara, салон красоты 30 июля 2026, официальный ответ Добрый день! Благодарим вас за такой тёплый отзыв🫶🏻Ждём вас снова к нам в гости🤍"
+    },
+    {
+      "author": "Happy Wife",
+      "date": "25 июля 2026",
+      "rating": "5",
+      "text": "Понравилось отношение к клиентам. Мастер работал аккуратно и объяснял каждый этап процедуры. Результат оправдал ожидания.",
+      "raw_text": "HW Happy Wife 67 отзывов 25 июля 2026 Понравилось отношение к клиентам. Мастер работал аккуратно и объяснял каждый этап процедуры. Результат оправдал ожидания. Полезно? Vс Velara, салон красоты 27 июля 2026, официальный ответ Добрый день, спасибо большое за отзыв!!!Ждем Вашего возвращения 🧡"
+    },
+    {
+      "author": "Assel Muratova",
+      "date": "16 июля 2026",
+      "rating": "5",
+      "text": "Бурак Благодарю,за профессионализм и прекрасную работу! Пусть ваше мастерство приносит радость людям, а вам — успех, процветание и благодарных клиентов! ✨",
+      "raw_text": "Assel Muratova 4 отзыва 16 июля 2026 Бурак Благодарю,за профессионализм и прекрасную работу! Пусть ваше мастерство приносит радость людям, а вам — успех, процветание и благодарных клиентов! ✨ Читать целиком Полезно? Vс Velara, салон красоты 16 июля 2026, официальный ответ Ассель, благодарим Вас за такой приятный отзыв, с нетерпением будем ждать Вашего визита ❤️"
+    },
+    {
+      "author": "G M",
+      "date": "8 июля 2026",
+      "rating": "5",
+      "text": "Хочу оставить отзыв о мастере Сеним. Я хожу к ней уже не первый раз, и каждый раз убеждаюсь, что она настоящий профессионал своего дела. С первого посещения мне очень понравилось, насколько аккуратно, внимательно и качественно она работает. Маникюр и педикюр всегда безупречные, всё сделано очень тщательно и с большим вниманием к деталям. Даже то, на что многие мастера не обращают внимания, Сеним обязательно доводит до идеала. Очень приятно приходить к человеку, который действительно любит свою работу и делает её на высшем уровне. Результат всегда превосходит ожидания. Искренне рекомендую Сеним всем, кто ищет профессионального, ответственного и талантливого мастера! 1",
+      "raw_text": "GM G M 11 отзывов 8 июля 2026 Хочу оставить отзыв о мастере Сеним. Я хожу к ней уже не первый раз, и каждый раз убеждаюсь, что она настоящий профессионал своего дела. С первого посещения мне очень понравилось, насколько аккуратно, внимательно и качественно она работает. Маникюр и педикюр всегда безупречные, всё сделано очень тщательно и с большим вниманием к деталям. Даже то, на что многие мастера не обращают внимания, Сеним обязательно доводит до идеала. Очень приятно приходить к человеку, который действительно любит свою работу и делает её на высшем уровне. Результат всегда превосходит ожидания. Искренне рекомендую Сеним всем, кто ищет профессионального, ответственного и талантливого мастера! Читать целиком 1 Полезно? Vс Velara, салон красоты 9 июля 2026, официальный ответ G! Большое спасибо за высокую оценку 💛 Рады работать для вас 🤗"
+    },
+    {
+      "author": "Назым Умирхалыкова",
+      "date": "4 июля 2026",
+      "rating": "5",
+      "text": "Очень хороший салон. Огромная благодарность мастеру Сенім!🫶🏻 Профессионал своего дела👍🏻 очень красивый и нежный дизайн получился 🥰 1",
+      "raw_text": "НУ Назым Умирхалыкова 3 отзыва 4 июля 2026 Очень хороший салон. Огромная благодарность мастеру Сенім!🫶🏻 Профессионал своего дела👍🏻 очень красивый и нежный дизайн получился 🥰 1 Полезно? Vс Velara, салон красоты 4 июля 2026, официальный ответ Добрый вечер, Назым, благодарим Вас,очень приятно получать обратную связь с нетерпением будем ждать Вашего следующего визита 🧡"
+    },
+    {
+      "author": "amikosha 🦢",
+      "date": "21 июня 2026",
+      "rating": "5",
+      "text": "ужасный салон, красила там пряди в красный смылись через неделю так еще и за вот этот ужас просят 30 к максимум 3-5 к кошмар.",
+      "raw_text": "amikosha 🦢 10 отзывов 21 июня 2026 ужасный салон, красила там пряди в красный смылись через неделю так еще и за вот этот ужас просят 30 к максимум 3-5 к кошмар. Читать целиком Полезно? Vс Velara, салон красоты 23 июня 2026, официальный ответ Здравствуйте!Нам ,очень жаль,что результат вас расстроил.Стойкость цвета зависит от исходного состоя…"
+    },
+    {
+      "author": "Rmniqy Uxeying",
+      "date": "14 июня 2026",
+      "rating": "5",
+      "text": "Стричь не умеют! Выкинули 10 тысяч за стрижку! \"Мастер\" отвлекается при стрижке, держит ножницы отвлекается на разговор с человеком пришедшим с улицы. Это небезопасно! Не знает последние тренды в стрижках, стрижку не ровнял, пожелания не выполнил. Отвлекался на разговоры со своими дружками и пил кофе, у него на это ушло больше времени чем на стрижку. Не мастер вовсе! 1 1",
+      "raw_text": "RU Rmniqy Uxeying 90 отзывов 14 июня 2026 Стричь не умеют! Выкинули 10 тысяч за стрижку! \"Мастер\" отвлекается при стрижке, держит ножницы отвлекается на разговор с человеком пришедшим с улицы. Это небезопасно! Не знает последние тренды в стрижках, стрижку не ровнял, пожелания не выполнил. Отвлекался на разговоры со своими дружками и пил кофе, у него на это ушло больше времени чем на стрижку. Не мастер вовсе! Читать целиком 1 1 Полезно? Vс Velara, салон красоты 17 июня 2026, официальный ответ Здравствуйте благодарим вас за обратную связь! Нам искренне жаль,что после посещения нашего салона у… Все комментарии"
+    },
+    {
+      "author": "Velara, салон красоты",
+      "date": "17 июня 2026",
+      "rating": "",
+      "text": "Здравствуйте благодарим вас за обратную связь! Нам искренне жаль,что после посещения нашего салона у… Все комментарии",
+      "raw_text": "Vс Velara, салон красоты 17 июня 2026, официальный ответ Здравствуйте благодарим вас за обратную связь! Нам искренне жаль,что после посещения нашего салона у… Все комментарии"
+    },
+    {
+      "author": "Динара Акимберди",
+      "date": "23 января 2026",
+      "rating": "5",
+      "text": "“Velara”салонына өзімнің ыстық ықыласымды білдіргім келеді. Әсіресе Бурак мырзаның шаш бояу және қиюдағы шеберлігін өте жоғары бағалаймын. Бұған дейін көптеген мастерлерге жүгініп көрдім, алайда олардың жұмысына көңілім толмайтын. Себебі шашым қатты зақымдалып, ай сайын қайта-қайта бояуға мәжбүр болатынмын. Ал Бурак мырза шаштың жағдайын ескеріп, кәсіби әрі ұқыпты жұмыс жасайды. Нәтижесі керемет: шашым сау, түсі әдемі әрі ұзақ сақталады. Өз ісінің нағыз маманы деп сеніммен айта аламын. “Velara”салонын және Бурак мырзаны шын жүректен ұсынамын!❤️ 1",
+      "raw_text": "ДА Динара Акимберди 7 отзывов 23 января 2026, изменён “Velara”салонына өзімнің ыстық ықыласымды білдіргім келеді. Әсіресе Бурак мырзаның шаш бояу және қиюдағы шеберлігін өте жоғары бағалаймын. Бұған дейін көптеген мастерлерге жүгініп көрдім, алайда олардың жұмысына көңілім толмайтын. Себебі шашым қатты зақымдалып, ай сайын қайта-қайта бояуға мәжбүр болатынмын. Ал Бурак мырза шаштың жағдайын ескеріп, кәсіби әрі ұқыпты жұмыс жасайды. Нәтижесі керемет: шашым сау, түсі әдемі әрі ұзақ сақталады. Өз ісінің нағыз маманы деп сеніммен айта аламын. “Velara”салонын және Бурак мырзаны шын жүректен ұсынамын!❤️ Читать целиком 1 Полезно?"
+    },
+    {
+      "author": "Gaukhar Abdirova",
+      "date": "27 мая 2026",
+      "rating": "5",
+      "text": "Отличный салон! Хожу сюда на маникюр и педикюр к мастеру Сеним, очень довольна её работой! Она высококвалифицированный мастер, работает очень аккуратно, тщательно и стерильно! 1",
+      "raw_text": "GA Gaukhar Abdirova 9 отзывов 27 мая 2026 Отличный салон! Хожу сюда на маникюр и педикюр к мастеру Сеним, очень довольна её работой! Она высококвалифицированный мастер, работает очень аккуратно, тщательно и стерильно! Читать целиком 1 Полезно?"
+    },
+    {
+      "author": "С .",
+      "date": "15 мая 2026",
+      "rating": "5",
+      "text": "Был у мастера Тахмины, делал маникюр, отличный мастер, всё аккуратно и чисто. Результат понравился. Рекомендую. Теперь буду ходить сюда)) Спасибо",
+      "raw_text": "С . 2 отзыва 15 мая 2026, изменён Был у мастера Тахмины, делал маникюр, отличный мастер, всё аккуратно и чисто. Результат понравился. Рекомендую. Теперь буду ходить сюда)) Спасибо Полезно?"
+    },
+    {
+      "author": "Индира",
+      "date": "7 мая 2026",
+      "rating": "5",
+      "text": "Отличный мастер Сеним на все руки😍 Делала ламинирование ресниц и бровей, наращивание ногтей, педикюр и депиляцию. Качественно и аккуратно, красиво. Видно большой опыт, очень внимательная и приятная в общении. Результат супер, рекомендую! 1",
+      "raw_text": "И Индира 1 отзыв 7 мая 2026, изменён Отличный мастер Сеним на все руки😍 Делала ламинирование ресниц и бровей, наращивание ногтей, педикюр и депиляцию. Качественно и аккуратно, красиво. Видно большой опыт, очень внимательная и приятная в общении. Результат супер, рекомендую! Читать целиком 1 Полезно?"
+    },
+    {
+      "author": "Saltanat Kulbaeva",
+      "date": "6 мая 2026",
+      "rating": "5",
+      "text": "Тамина, мастер по маникюру и педикюру, очень бережно и с заботой почистит ваши перышки, спаибо очень нравится Да и мастера там все хорошие, работают всей душой, любят свою деятельность 🤗",
+      "raw_text": "SK Saltanat Kulbaeva 17 отзывов 6 мая 2026 Тамина, мастер по маникюру и педикюру, очень бережно и с заботой почистит ваши перышки, спаибо очень нравится Да и мастера там все хорошие, работают всей душой, любят свою деятельность 🤗 Читать целиком Полезно?"
+    },
+    {
+      "author": "Asem Asem",
+      "date": "4 апреля 2026",
+      "rating": "5",
+      "text": "Мы ходим всей семьей в салон, очень приветливый персонал . Хочу поблагодарить мастера Суата и Седата профессионалы своего дела . 1",
+      "raw_text": "AA Asem Asem 3 отзыва 4 апреля 2026 Мы ходим всей семьей в салон, очень приветливый персонал . Хочу поблагодарить мастера Суата и Седата профессионалы своего дела . 1 Полезно?"
+    },
+    {
+      "author": "Жанар",
+      "date": "4 апреля 2026",
+      "rating": "5",
+      "text": "Хочу оставить отзыв о салоне красоты. Очень довольна обслуживанием! Мужской мастер Суат — настоящий профессионал своего дела. Работает аккуратно, внимательно относится к деталям, результат всегда отличный. Видно, что у него большой опыт и хороший вкус. Женские мастера Седат также порадовали своим мастерством. Очень вежливые, доброжелательные и внимательные к пожеланиям клиента. Делают всё качественно и с душой. В салоне приятная атмосфера, чисто и уютно. Обязательно буду приходить ещё и рекомендовать знакомым! 1",
+      "raw_text": "Ж Жанар 2 отзыва 4 апреля 2026 Хочу оставить отзыв о салоне красоты. Очень довольна обслуживанием! Мужской мастер Суат — настоящий профессионал своего дела. Работает аккуратно, внимательно относится к деталям, результат всегда отличный. Видно, что у него большой опыт и хороший вкус. Женские мастера Седат также порадовали своим мастерством. Очень вежливые, доброжелательные и внимательные к пожеланиям клиента. Делают всё качественно и с душой. В салоне приятная атмосфера, чисто и уютно. Обязательно буду приходить ещё и рекомендовать знакомым! Читать целиком 1 Полезно?"
+    },
+    {
+      "author": "Goha",
+      "date": "2 апреля 2026",
+      "rating": "5",
+      "text": "В салоне шикарная атмосфера! Хожу к мастеру Сеним уже много лет, ещё со времён акриловых ногтей и наращивания ресниц. Сейчас делаю ламинирование ресниц и ПМ бровей и губ. Очень удобно, что мастер универсальный и всё можно сделать в одном месте. У неё правда золотые руки, всегда всё аккуратно и результат радует. Уже столько лет хожу и всегда довольна, от души рекомендую! 1",
+      "raw_text": "G Goha 19 отзывов 2 апреля 2026, изменён В салоне шикарная атмосфера! Хожу к мастеру Сеним уже много лет, ещё со времён акриловых ногтей и наращивания ресниц. Сейчас делаю ламинирование ресниц и ПМ бровей и губ. Очень удобно, что мастер универсальный и всё можно сделать в одном месте. У неё правда золотые руки, всегда всё аккуратно и результат радует. Уже столько лет хожу и всегда довольна, от души рекомендую! Читать целиком 1 Полезно?"
+    },
+    {
+      "author": "Alexandra Budkina",
+      "date": "28 марта 2026",
+      "rating": "5",
+      "text": "Делала маникюр и педикюр у мастера Тахмины и осталась очень довольна. Она внимательная, аккуратная и сразу понимает, какой результат хочется. Всё сделано чисто, форма идеальная, покрытие ровное, выглядит красиво и аккуратно. С удовольствием рекомендую🤍",
+      "raw_text": "Alexandra Budkina 13 отзывов 28 марта 2026 Делала маникюр и педикюр у мастера Тахмины и осталась очень довольна. Она внимательная, аккуратная и сразу понимает, какой результат хочется. Всё сделано чисто, форма идеальная, покрытие ровное, выглядит красиво и аккуратно. С удовольствием рекомендую🤍 Читать целиком Полезно?"
+    },
+    {
+      "author": "Y A",
+      "date": "28 марта 2026",
+      "rating": "5",
+      "text": "Мастер Тахмина понравилась! Делала маникюр без покрытия у неё, всё красиво и чисто. Спрашивает и прислушивается к комментам клиента, что очень приятно видеть. В целом приятный человек)",
+      "raw_text": "YA Y A 4 отзыва 28 марта 2026 Мастер Тахмина понравилась! Делала маникюр без покрытия у неё, всё красиво и чисто. Спрашивает и прислушивается к комментам клиента, что очень приятно видеть. В целом приятный человек) Читать целиком Полезно?"
+    },
+    {
+      "author": "elvenlemonade .",
+      "date": "2 мая 2026",
+      "rating": "5",
+      "text": "Мастер Тахмина отличный: подход к клиенту, внимательность, софт скилы на высоте, но... 01 мая абсолютно разочаровалась в салоне и их администрации. Я записывалась заранее, пришла, а вместо меня сидел другой человек, потому что у них перебои с интернетом (понимаю, но ведите тогда записи вручную). Пришлось им того человека сгонять с кресла, чтобы посадить меня, что было неприятно. Все извинились, администратор Байсангур предложил напитки...и ушел чтобы залипать в телефон. Вторая девушка которая там ходила и назвалась вторым админом тоже где-то залипала в телефон (зато как только вопрос оплаты встал, сразу же прибежала спотыкаясь). Отсутствие перенесенного стакана воды (не чая, воды простой) заметил только мастер. При том содрали полную цену. Честно говоря, за эту цену лучше буду ходить в другой салон.",
+      "raw_text": "elvenlemonade . 53 отзыва 2 мая 2026, изменён Мастер Тахмина отличный: подход к клиенту, внимательность, софт скилы на высоте, но... 01 мая абсолютно разочаровалась в салоне и их администрации. Я записывалась заранее, пришла, а вместо меня сидел другой человек, потому что у них перебои с интернетом (понимаю, но ведите тогда записи вручную). Пришлось им того человека сгонять с кресла, чтобы посадить меня, что было неприятно. Все извинились, администратор Байсангур предложил напитки...и ушел чтобы залипать в телефон. Вторая девушка которая там ходила и назвалась вторым админом тоже где-то залипала в телефон (зато как только вопрос оплаты встал, сразу же прибежала спотыкаясь). Отсутствие перенесенного стакана воды (не чая, воды простой) заметил только мастер. При том содрали полную цену. Честно говоря, за эту цену лучше буду ходить в другой салон. Читать целиком Полезно? Velara, салон красоты 15 мая 2026 Сәлеметсіз бе! Өтінеміз, біздің компанияның клиенті болғаныңызды растаңыз. Ол үшін келесі нұсқаларды…"
+    },
+    {
+      "author": "Dinara Sadenova",
+      "date": "24 мая 2026",
+      "rating": "5",
+      "text": "Была у мастера Сеним, лучший мастер, все понравилось, аккуратно, быстро и качественно 2",
+      "raw_text": "DS Dinara Sadenova 4 отзыва 24 мая 2026 Была у мастера Сеним, лучший мастер, все понравилось, аккуратно, быстро и качественно 2 Полезно? Vс Velara, салон красоты 4 июля 2026, официальный ответ Dinara, здравствуйте! Благодарим за высокую оценку. Мы рады, что вам всё понравилось 😁"
+    },
+    {
+      "author": "Mariyam К",
+      "date": "19 мая 2026",
+      "rating": "5",
+      "text": "Классный салон ! Профессиональные мастера и приятные админы салона.",
+      "raw_text": "MК Mariyam К 6 отзывов 19 мая 2026 Классный салон ! Профессиональные мастера и приятные админы салона. Полезно? Vс Velara, салон красоты 4 июля 2026, официальный ответ Добрый день! Благодарим вас за приятный отклик 🤗 Ждём вас в гости снова 💛"
+    },
+    {
+      "author": "Виктория Бондарчук",
+      "date": "15 мая 2026",
+      "rating": "5",
+      "text": "Тахмина супер мастер",
+      "raw_text": "ВБ Виктория Бондарчук 5 отзывов 15 мая 2026 Тахмина супер мастер Полезно?"
+    },
+    {
+      "author": "Анатолий Лим",
+      "date": "5 мая 2026",
+      "rating": "5",
+      "text": "Тахминчик самый крутой мастер! Здоровья, счастья и любви!!!",
+      "raw_text": "АЛ Анатолий Лим 2 отзыва 5 мая 2026 Тахминчик самый крутой мастер! Здоровья, счастья и любви!!! Полезно?"
+    },
+    {
+      "author": "Максим Мирный",
+      "date": "25 марта 2026",
+      "rating": "5",
+      "text": "Комфортно быстро и хорошо. Спасибо",
+      "raw_text": "ММ Максим Мирный 13 отзывов 25 марта 2026 Комфортно быстро и хорошо. Спасибо Полезно?"
+    },
+    {
+      "author": "Дамира Шарбахынова",
+      "date": "31 декабря 2025",
+      "rating": "5",
+      "text": "спасибо большое админу Жания, помогла со всем разобраться, и нашла мне хорошего мастера Кенан и Седат👍",
+      "raw_text": "Дамира Шарбахынова 8 отзывов 31 декабря 2025 спасибо большое админу Жания, помогла со всем разобраться, и нашла мне хорошего мастера Кенан и Седат👍 Полезно?"
+    },
+    {
+      "author": "Gulnara Aubakirova",
+      "date": "10 декабря 2025",
+      "rating": "5",
+      "text": "Я записалась онлайн на маникюр, впервые в этом салоне, выбрала рандомного мастера . Но к сожалению, а может быть и нет , мастер не принимал в этот день. Я попала к другому мастеру Тахмина , мне все понравилось, она между своими клиентами приняла меня. Быстро, аккуратно все сделала. Очень приятная девушка. Сам салон тоже понравился и интерьер и вежливость персонала. Ставлю кучу звёзд)",
+      "raw_text": "Gulnara Aubakirova 8 отзывов 10 декабря 2025 Я записалась онлайн на маникюр, впервые в этом салоне, выбрала рандомного мастера . Но к сожалению, а может быть и нет , мастер не принимал в этот день. Я попала к другому мастеру Тахмина , мне все понравилось, она между своими клиентами приняла меня. Быстро, аккуратно все сделала. Очень приятная девушка. Сам салон тоже понравился и интерьер и вежливость персонала. Ставлю кучу звёзд) Читать целиком Полезно?"
+    },
+    {
+      "author": "Камиль Ростов",
+      "date": "25 ноября 2025",
+      "rating": "5",
+      "text": "Очень торопился на встречу. Спасибо за оперативность. Подстригли шикарно.",
+      "raw_text": "КР Камиль Ростов 1 отзыв 25 ноября 2025 Очень торопился на встречу. Спасибо за оперативность. Подстригли шикарно. Полезно?"
+    }
+  ],
+  "features": [
+    "Сохранить",
+    "Отправить",
+    "Салон красоты",
+    "4.8",
+    "Подтверждён",
+    "(94)",
+    "Контакты",
+    "Инфо",
+    "Вопросы",
+    "Парикмахерские",
+    "Ногтевые студии",
+    "Ресницы и брови",
+    "​Наращивание ресниц​Ламинирование ресниц​Окрашивание ресниц​Коррекция бровей​Окрашивание бровей​Ламинирование бровей",
+    "SPA-процедуры",
+    "SPA для головы",
+    "Виды эпиляции",
+    "​Шугаринг​Восковая эпиляция​Мужская эпиляция",
+    "Дополнительно",
+    "Wi-Fi для клиентов",
+    "Способы оплаты",
+    "​Оплата картой​Наличный расчёт​Оплата через банк​Оплата по QR-коду",
+    "Доступность",
+    "Можно с собакой",
+    "В справочнике",
+    "​Ногтевой сервис​Парикмахерские услуги​Эпиляция​Визажисты​Оформление бровей и ресниц",
+    "Парковка",
+    "​102 места​Платная",
+    "​53 места​Платная",
+    "​86 мест​Платная",
+    "Транспорт",
+    "Абая",
+    "​15 мин​1.5 км",
+    "26 парковок",
+    "Также люди ищут",
+    "​Маникюр рядом​Салон красоты​Премия 2гис",
+    "Нашли ошибку в данных?",
+    "​Это моя компания​Реклама в 2ГИС ↗",
+    "​2ГИС для Android​2ГИС для iOS",
+    "Добавить заметку"
+  ],
+  "photos": [
+    {
+      "file": "Gallery-01.webp",
+      "source": "https://i6.photo.2gis.com/photo-gallery/a069160b-bdeb-4073-86b0-8a5326f5c776.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "5ce1cfdfb6d243a52bbf4d0a93bc651897516c4c25084a9472b1d79bdecdd885",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-02.webp",
+      "source": "https://i4.photo.2gis.com/photo-gallery/d2dd12b2-43d0-4ca4-94ea-3b496776d4dd.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "b68b1a3507a86ca92287777bc1920edeaf579e4bfa717c5d24fe9cf3b0d8e044",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-03.webp",
+      "source": "https://i4.photo.2gis.com/photo-gallery/850bc345-afa4-41d2-9955-69d1bf4049ad.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "ce3a6c120e0ed44446a1b5b4208f7fa19e720d207ab7af563483897436cc4ece",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-04.webp",
+      "source": "https://i7.photo.2gis.com/photo-gallery/4254fbdc-cd0c-4a2e-8c4e-bc321867bdb2.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "a6974fc1d4151da2f0ad0325057b98827c7c3e6cd66da8a33976d15e975f30c5",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-05.webp",
+      "source": "https://i1.photo.2gis.com/photo-gallery/3f68c9e7-0d49-4416-bd9d-1c905aff738c.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "2ba069f057c8546c11c9b3ffd36d4ca555ea7f2c902cfb441beee881c1d0b7c1",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-06.webp",
+      "source": "https://i4.photo.2gis.com/photo-gallery/df188657-4c00-4bd7-9a7a-ab12d5b7e66e.jpg",
+      "source_width": 1096,
+      "source_height": 1280,
+      "width": 1096,
+      "height": 1280,
+      "sha256": "f2271d4aca66dc5e3ea54dd2021522425fd4e623fad4e1e4c16deec768f635bb",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-07.webp",
+      "source": "https://i4.photo.2gis.com/photo-gallery/6636a6f7-c0af-45a9-ae4c-533e6e547f2e.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "3336c8ea26c388a84fe8ac13e1c05b3cea5903e88cb9002df8d190ce2697ac0c",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-08.webp",
+      "source": "https://i8.photo.2gis.com/photo-gallery/6c9adbd6-5b52-4386-836d-36f6311616d1.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "a0a1a6c06eaa705fe6edb4215aa3ce93cba5ac35d9744b0da22efdf9c7323a3b",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-09.webp",
+      "source": "https://i1.photo.2gis.com/photo-gallery/2cecd22e-357e-41da-a4c4-8a99e04fec3c.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "2fc444ac2826e2ca78f94de81f047ae9473209a53b896047dc102e2fa5c25c00",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-10.webp",
+      "source": "https://i6.photo.2gis.com/photo-gallery/cab7c1ec-49d8-4484-a390-11e34c85a5a7.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "e38a1424f26f8f414aed86b39ae77ec5af2a29410be793b21dce15791dfee323",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-11.webp",
+      "source": "https://i8.photo.2gis.com/photo-gallery/bf98cad4-36a9-491a-ae7a-9ac0d91719a9.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "67b4b040be3b7091456a0426b555550da0dd86d662cf9f6ca40131a6a8c3ec46",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-12.webp",
+      "source": "https://i0.photo.2gis.com/photo-gallery/2154511a-28eb-4e61-b258-6a6646cdb377.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "587ca0a1bacc3cbade5d6df3321337fdbdec75c8bd395c454cd6470b72f2507f",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-13.webp",
+      "source": "https://i3.photo.2gis.com/photo-gallery/81e83940-bc7a-4c47-896f-e4ad376f447a.jpg",
+      "source_width": 1440,
+      "source_height": 2557,
+      "width": 1239,
+      "height": 2200,
+      "sha256": "946cb5d7d2b271b20e78ed648557f822ec70899c8149090cbe7ca8cfd087fe48",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-14.webp",
+      "source": "https://i9.photo.2gis.com/photo-gallery/e91ad9f8-5ba6-4303-a718-b8bb26ecd78e.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "39451b41fb9169adb205078d4eae0a887e4aa9b72ada9b8b71f1e5596029854c",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-15.webp",
+      "source": "https://i1.photo.2gis.com/photo-gallery/a4a91482-df49-43ce-a7fb-2040d43af583.jpg",
+      "source_width": 1440,
+      "source_height": 2560,
+      "width": 1237,
+      "height": 2200,
+      "sha256": "c3f8dbacbbf51154ccd11f8636dc928335fdf966260c241caaf6518af20c8095",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-16.webp",
+      "source": "https://i9.photo.2gis.com/photo-gallery/415d97fb-c080-4eda-9270-6f36ff1bba82.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "1edf42ee9c176fbaa39de40e911e658dc9da761ea1589c9e8f85b56e4de44c4b",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-17.webp",
+      "source": "https://i4.photo.2gis.com/photo-gallery/f734c555-aa36-4f49-a71b-e31d48560afa.jpg",
+      "source_width": 1200,
+      "source_height": 1600,
+      "width": 1200,
+      "height": 1600,
+      "sha256": "0bd7724877fc71bd5868cd981494af5a4b719c811997c1d1f3d822c41dd0f2c2",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-18.webp",
+      "source": "https://i2.photo.2gis.com/photo-gallery/626d263f-710f-4373-b83c-387284d944a1.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "203b678ab43fb5b5ff5ce21f9e7410527ec1ae0ef19f4bac7dd6acff5e15ebad",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-19.webp",
+      "source": "https://i8.photo.2gis.com/photo-gallery/3b6224f7-7883-4c25-ac4b-05e7bb1df0a6.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "b052495b0ac25289d7ff5f05efea1c0541d11d9e8e3bd589e878d42bd31e6d4d",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-20.webp",
+      "source": "https://i8.photo.2gis.com/photo-gallery/c462d570-a623-457d-ace9-34fab3ce50b6.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "268a0eaff28b567519073a9caa3ac1b82ff912c98b8f53ea5c19f44bf1594c21",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "salon",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-21.webp",
+      "source": "https://i5.photo.2gis.com/photo-gallery/801e6ae1-3b7c-4e95-a8d9-26b8fa343161.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "3c3a0258304ab485a2dcca3e961df38c1bda5319494008496df890c9051a7f0c",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "salon",
+      "role": "gallery"
+    },
+    {
+      "file": "Hero.webp",
+      "source": "https://i6.photo.2gis.com/photo-gallery/2604dc8a-2c64-4eb2-bb9f-19bf7f3c5b84.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "406a21e99e964a7097f877d042fad0e38f1c8ef2c3aeb1c588c9b321e782a87a",
+      "categories": [
+        "Все"
+      ],
+      "role": "hero"
+    },
+    {
+      "file": "Profile.webp",
+      "source": "https://i1.photo.2gis.com/photo-gallery/e26b19b6-9c84-4dec-ad39-54c3a5c9da11.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "3b0e75e5b15139469be27e8275534db354be957e0c73d8470de1c7be56294b50",
+      "categories": [
+        "Все"
+      ],
+      "role": "profile"
+    }
+  ],
+  "site_images": {
+    "logo": null,
+    "hero": "assets/Hero.webp",
+    "profile": "assets/Profile.webp",
+    "gallery": [
+      "assets/Gallery-01.webp",
+      "assets/Gallery-02.webp",
+      "assets/Gallery-03.webp",
+      "assets/Gallery-04.webp",
+      "assets/Gallery-05.webp",
+      "assets/Gallery-06.webp",
+      "assets/Gallery-07.webp",
+      "assets/Gallery-08.webp",
+      "assets/Gallery-09.webp",
+      "assets/Gallery-10.webp",
+      "assets/Gallery-11.webp",
+      "assets/Gallery-12.webp",
+      "assets/Gallery-13.webp",
+      "assets/Gallery-14.webp",
+      "assets/Gallery-15.webp",
+      "assets/Gallery-16.webp",
+      "assets/Gallery-17.webp",
+      "assets/Gallery-18.webp",
+      "assets/Gallery-19.webp",
+      "assets/Gallery-20.webp",
+      "assets/Gallery-21.webp"
+    ],
+    "team": []
+  },
+  "suggested_main_file": "assets/Hero.webp",
+  "raw_sections": {
+    "overview": {
+      "url": "https://2gis.kz/almaty/firm/70000001109698727",
+      "title": "Velara, салон красоты на карте, Студии ногтевого сервиса, Алматы — 2ГИС",
+      "heading": "Velara",
+      "meta": "Velara, салон красоты: адреса со входами на карте, отзывы, фото, номера телефонов, время работы и как доехать. Женский педикюр, Наращивание гелем, Наращивание акрилом, Мужской маникюр, Детский маникюр, Японский маникюр, Гель-лак, Аппаратный маникюр, Парафиновые ванночки, Мужской педикюр",
+      "text": "Сохранить\nОтправить\nМаршрут\nVelara \nСалон красоты\n4.8\nПодтверждён\n(94)\nКонтакты\nИнфо\nОтзывы\n76\nЦены\nФото\n25\nВопросы\n​МФК Samal Mall​Проспект Назарбаева, 226​1 этаж\nСамал-2 м-н, Медеуский район, Алматы, 050059/A15C0B9\nПоказать вход\nОткрыто\nЕжедневно с 10:00 до 22:00\nzapis.kz/salon/13073\nInstagram\nWhatsApp\nПохожие организации\nNogti Mania, студия красоты\nМаникюр с гелевым покрытием от 7000 тг. Профессионально и с гарантией!\nПозвонить\nРеклама\nBadi, салон красоты\nВсе виды услуг. Доступные цены!\nЗаписаться\nMontebello, салон красоты\nДля клиентов из 2ГИС скидка 15% на мужскую стрижку и окрашивание*\nЗаписаться онлайн\nКерім, салон\nМужская и женская стрижка от 4000 ₸. Маникюр 4000 ₸. Макияж от 8000 ₸\nЗаписаться\nDili, салон красоты\nКератин, ботокс — 16 990 ₸. Шугаринг, комплекс — 7990 ₸\nЗаписаться\nВопросы о месте\nОтвечает ИИ-помощник\nРасскажи об этой ногтевой студии\nКакие услуги доступны в студии?\nСколько стоит классический маникюр?\nЕсть ли запись или очередь?\nКакой режим работы?\nРасскажи о вакансиях\nЗадать свой вопрос\nНашли ошибку в данных?\n​Это моя компания​Реклама в 2ГИС ↗\n​2ГИС для Android​2ГИС для iOS\nДобавить заметку",
+      "links": [
+        {
+          "text": "Маршрут",
+          "href": "https://2gis.kz/almaty/directions/points/%7C76.950923%2C43.232816%3B70000001109698727"
+        },
+        {
+          "text": "Контакты",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727"
+        },
+        {
+          "text": "Инфо",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727/tab/info"
+        },
+        {
+          "text": "Отзывы 76",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727/tab/reviews"
+        },
+        {
+          "text": "Цены",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727/tab/menu"
+        },
+        {
+          "text": "Фото 25",
+          "href": "https://2gis.kz/almaty/gallery/firm/70000001109698727"
+        },
+        {
+          "text": "Вопросы",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727/tab/questions"
+        },
+        {
+          "text": "Проспект Назарбаева, 226",
+          "href": "https://2gis.kz/almaty/geo/9430047375107514"
+        },
+        {
+          "text": "zapis.kz/salon/13073",
+          "href": "https://link.2gis.com/4.2/238DE8FB/aHR0cDovL3phcGlzLmt6L3NhbG9uLzEzMDczCmh0dHBzOi8vczEuYnNzLjJnaXMuY29tL2Jzcy8zClt7ImNvbW1vbiI6eyJmb3JtYXRWZXJzaW9uIjozLCJhcHBWZXJzaW9uIjoiMjAyNi0xMC0wMi0xNyIsInByb2R1Y3QiOjM0LCJhcGlrZXkiOiJjN2YxYTc2OS1jOGE1LTQ2MzYtYjE0ZC1kOGM5ODc4MDhhMTIiLCJhcGlrZXlTdGF0dXMiOjEsImRldmljZUxvY2FsZSI6InJ1X0taIiwidXNlciI6ImFhOWE0ODM2LWMxMTMtNDIwMi04OTgyLWMzODlkMTA4ZDdjZSIsImlwIjoiMTg4LjI0My4yMjQuNjIiLCJzZXNzaW9uSWQiOiIxYTE4ZTA5Yi1hYmQ5LTQ0MmItOWFlMS0zYWQ4NjVjY2JlNmMiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTU0LjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1NC4wLjAuMCIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiJjNmM4MTEwZS1mNDBjLTRkNjctODk2MS00MDI2MTEyNTNlYTEiLCJ0aW1lc3RhbXAiOjE3OTEyMDY4NjQyODcsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6Ijg5Mjc1ZDg3LWEzN2MtNDczOC04NGUzLWUxZDQ1OGY0NzBhNiIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY29udGFjdCIsIm93bmVyTmFtZSI6ImNhcmRDb250YWN0cyIsInBvc2l0aW9uIjoxLCJmcmFtZVV1aWQiOiJkYjAzMmFkYS05OWIwLTRlNzItOGFkMS03YThmNzhhNzMyNmEifSwicGF5bG9hZCI6eyJjb250YWN0Ijp7InZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvOTE3OTU1MUMvb25saW5lLzIwMjYxMDAxL3Byb2plY3Q2Ny83MDAwMDAwMTEwOTY5ODcyNy9udWxsL3JueGQybEE5ODYzMDRkNkkzOTJDNTFKM0lIMkhtMnRldmd5MDA0ZGVkLTM3MDRKMjhHNElBMDMyY2hkLTcwQjU4NUc0RzJDMTMxNjk4NkM5NzQ5SGN0aWZCNmZmNWVBOGQ2NzU3NEo4SDAwMDExMUEySEk2SkhKSUhHNElmOD9odHRwOi8vemFwaXMua3ovc2Fsb24vMTMwNzMiLCJ0eXBlIjoid2Vic2l0ZSIsInBvc2l0aW9uIjoxfSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMTA5Njk4NzI3IiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9LWiIsInNlZ21lbnRJZCI6IjY3In19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjc2Ljk1MDkyMywibGF0Ijo0My4yMzI4MTZ9LCJtYWluUnVicmljIjoiNTYwMyIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMTA5Njk4NzI2IiwiaGFzTW9kZWwiOmZhbHNlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjEwLCJwYXJlbnRUYWJJZCI6Ijg1ZWVhM2ZjLWU5Y2ItNDI2Ny1iMmUxLWQ1NjI4OTY2NjFmMSJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoiTWFwUmVkZXNpZ24iLCJ2YWx1ZSI6ImZ1bGxNYXBSZWRlc2lnbl8xIn0seyJuYW1lIjoiYWRNYXJrZXJzQnViYmxlV2l0aEJnIiwidmFsdWUiOiJuZXdBZE1hcmtlcnNfMiJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE0NTAsImhlaWdodCI6OTUwfSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d"
+        },
+        {
+          "text": "Instagram",
+          "href": "https://link.2gis.com/4.2/AE76BCD6/aHR0cHM6Ly9pbnN0YWdyYW0uY29tL3ZlbGFyYS5iZWF1dHkuc3R1ZGlvCmh0dHBzOi8vczEuYnNzLjJnaXMuY29tL2Jzcy8zClt7ImNvbW1vbiI6eyJmb3JtYXRWZXJzaW9uIjozLCJhcHBWZXJzaW9uIjoiMjAyNi0xMC0wMi0xNyIsInByb2R1Y3QiOjM0LCJhcGlrZXkiOiJjN2YxYTc2OS1jOGE1LTQ2MzYtYjE0ZC1kOGM5ODc4MDhhMTIiLCJhcGlrZXlTdGF0dXMiOjEsImRldmljZUxvY2FsZSI6InJ1X0taIiwidXNlciI6ImFhOWE0ODM2LWMxMTMtNDIwMi04OTgyLWMzODlkMTA4ZDdjZSIsImlwIjoiMTg4LjI0My4yMjQuNjIiLCJzZXNzaW9uSWQiOiIxYTE4ZTA5Yi1hYmQ5LTQ0MmItOWFlMS0zYWQ4NjVjY2JlNmMiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTU0LjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1NC4wLjAuMCIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiJkMDkxZDRmZS0zZDg3LTQwMDktOGYyMy0zYWVjNDVjMDM1YzgiLCJ0aW1lc3RhbXAiOjE3OTEyMDY4NjQyODgsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6IjcxMjJlMTVkLTAxNjEtNDg2MC1hNmJiLWU3OTQ4NDI1YmM5NCIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY29udGFjdCIsIm93bmVyTmFtZSI6ImNhcmRDb250YWN0cyIsInBvc2l0aW9uIjoxLCJmcmFtZVV1aWQiOiJkYjAzMmFkYS05OWIwLTRlNzItOGFkMS03YThmNzhhNzMyNmEifSwicGF5bG9hZCI6eyJjb250YWN0Ijp7InZhbHVlIjoiaHR0cHM6Ly9pbnN0YWdyYW0uY29tL3ZlbGFyYS5iZWF1dHkuc3R1ZGlvIiwidHlwZSI6Imluc3RhZ3JhbSIsInBvc2l0aW9uIjoxfSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMTA5Njk4NzI3IiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9LWiIsInNlZ21lbnRJZCI6IjY3In19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjc2Ljk1MDkyMywibGF0Ijo0My4yMzI4MTZ9LCJtYWluUnVicmljIjoiNTYwMyIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMTA5Njk4NzI2IiwiaGFzTW9kZWwiOmZhbHNlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjEwLCJwYXJlbnRUYWJJZCI6Ijg1ZWVhM2ZjLWU5Y2ItNDI2Ny1iMmUxLWQ1NjI4OTY2NjFmMSJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoiTWFwUmVkZXNpZ24iLCJ2YWx1ZSI6ImZ1bGxNYXBSZWRlc2lnbl8xIn0seyJuYW1lIjoiYWRNYXJrZXJzQnViYmxlV2l0aEJnIiwidmFsdWUiOiJuZXdBZE1hcmtlcnNfMiJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE0NTAsImhlaWdodCI6OTUwfSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d"
+        },
+        {
+          "text": "WhatsApp",
+          "href": "https://link.2gis.com/4.2/E8E762E4/aHR0cHM6Ly93YS5tZS83NzcxODA4NjY2Nj90ZXh0PSVEMCU5NyVEMCVCNCVEMSU4MCVEMCVCMCVEMCVCMiVEMSU4MSVEMSU4MiVEMCVCMiVEMSU4MyVEMCVCOSVEMSU4MiVEMCVCNSElMEElMEElRDAlOUYlRDAlQjglRDElODglRDElODMlMjAlRDAlQjglRDAlQjclMjAlRDAlQkYlRDElODAlRDAlQjglRDAlQkIlRDAlQkUlRDAlQjYlRDAlQjUlRDAlQkQlRDAlQjglRDElOEYlMjAyJUQwJTkzJUQwJTk4JUQwJUExLiUwQSUwQQpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMTAtMDItMTciLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9LWiIsInVzZXIiOiJhYTlhNDgzNi1jMTEzLTQyMDItODk4Mi1jMzg5ZDEwOGQ3Y2UiLCJpcCI6IjE4OC4yNDMuMjI0LjYyIiwic2Vzc2lvbklkIjoiMWExOGUwOWItYWJkOS00NDJiLTlhZTEtM2FkODY1Y2NiZTZjIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1NC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTQuMC4wLjAiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiYzhjYTk5MGItNTI1NS00ZTJkLTg5MmQtOWRjNzdjZGEwNjFiIiwidGltZXN0YW1wIjoxNzkxMjA2ODY0Mjg4LCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiIwOGY5NGE1Mi1jY2Y1LTRiYmItYWJkZi0zZDQ4NDgwMjQwMzciLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNvbnRhY3QiLCJvd25lck5hbWUiOiJjYXJkQ29udGFjdHMiLCJwb3NpdGlvbiI6MiwiZnJhbWVVdWlkIjoiZGIwMzJhZGEtOTliMC00ZTcyLThhZDEtN2E4Zjc4YTczMjZhIn0sInBheWxvYWQiOnsiY29udGFjdCI6eyJ2YWx1ZSI6Imh0dHBzOi8vd2EubWUvNzc3MTgwODY2NjY%2FdGV4dD0lRDAlOTclRDAlQjQlRDElODAlRDAlQjAlRDAlQjIlRDElODElRDElODIlRDAlQjIlRDElODMlRDAlQjklRDElODIlRDAlQjUhJTBBJTBBJUQwJTlGJUQwJUI4JUQxJTg4JUQxJTgzJTIwJUQwJUI4JUQwJUI3JTIwJUQwJUJGJUQxJTgwJUQwJUI4JUQwJUJCJUQwJUJFJUQwJUI2JUQwJUI1JUQwJUJEJUQwJUI4JUQxJThGJTIwMiVEMCU5MyVEMCU5OCVEMCVBMS4lMEElMEEiLCJ0eXBlIjoid2hhdHNhcHAiLCJwb3NpdGlvbiI6Mn0sInBsYWNlSXRlbSI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTEwOTY5ODcyNyIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfS1oiLCJzZWdtZW50SWQiOiI2NyJ9fSwiZ2VvUG9zaXRpb24iOnsibG9uIjo3Ni45NTA5MjMsImxhdCI6NDMuMjMyODE2fSwibWFpblJ1YnJpYyI6IjU2MDMiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTEwOTY5ODcyNiIsImhhc01vZGVsIjpmYWxzZX0sImV4dGVybmFsTGluayI6eyJmb3JrRXZlbnRPcmRpbmFsIjoxMCwicGFyZW50VGFiSWQiOiI4NWVlYTNmYy1lOWNiLTQyNjctYjJlMS1kNTYyODk2NjYxZjEifX0sImFiVGVzdCI6W3sibmFtZSI6Ik1hcFJlZGVzaWduIiwidmFsdWUiOiJmdWxsTWFwUmVkZXNpZ25fMSJ9LHsibmFtZSI6ImFkTWFya2Vyc0J1YmJsZVdpdGhCZyIsInZhbHVlIjoibmV3QWRNYXJrZXJzXzIifSx7Im5hbWUiOiJkYXNoYm9hcmRSZWRlc2lnbiIsInZhbHVlIjoicmVkZXNpZ25Hcm91cF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNDUwLCJoZWlnaHQiOjk1MH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjE0NTAsImhlaWdodCI6OTUwfX0sInVzZXJTZXR0aW5ncyI6eyJtYXAiOnsiZWZmZWN0c0xldmVsIjoiZGVmYXVsdCIsIjNkTWFwIjp0cnVlfX19XQ%3D%3D"
+        },
+        {
+          "text": "Позвонить",
+          "href": "tel:+77272799007"
+        },
+        {
+          "text": "Записаться",
+          "href": "tel:+77019496008"
+        },
+        {
+          "text": "Записаться онлайн",
+          "href": "https://link.2gis.com/4.2/F376E558/aHR0cHM6Ly9hcHAuYXJuaWNhLnByby9ib29raW5nL2Jvb2tpbmc%2Fb3JnaWQ9NzAxNTUjL21haW4KaHR0cHM6Ly9zMS5ic3MuMmdpcy5jb20vYnNzLzMKW3siY29tbW9uIjp7ImZvcm1hdFZlcnNpb24iOjMsImFwcFZlcnNpb24iOiIyMDI2LTEwLTAyLTE3IiwicHJvZHVjdCI6MzQsImFwaWtleSI6ImM3ZjFhNzY5LWM4YTUtNDYzNi1iMTRkLWQ4Yzk4NzgwOGExMiIsImFwaWtleVN0YXR1cyI6MSwiZGV2aWNlTG9jYWxlIjoicnVfS1oiLCJ1c2VyIjoiYWE5YTQ4MzYtYzExMy00MjAyLTg5ODItYzM4OWQxMDhkN2NlIiwiaXAiOiIxODguMjQzLjIyNC42MiIsInNlc3Npb25JZCI6IjFhMThlMDliLWFiZDktNDQyYi05YWUxLTNhZDg2NWNjYmU2YyIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTQuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTU0LjAuMC4wIiwiZGV2aWNlVHlwZSI6ImRlc2t0b3AiLCJwZXJzb25hbERhdGFDb2xsZWN0aW9uQWxsb3dlZCI6dHJ1ZSwidGFiSXNBY3RpdmUiOnRydWV9LCJ1dGNPZmZzZXQiOiIrMDM6MDAiLCJ0YWJJZCI6IjMyZTFhYWExLTk3NmItNDI2Ni04OWZlLTJjMzY3NDgzNGJhNSIsInRpbWVzdGFtcCI6MTc5MTIwNjg2NDI5MCwidHlwZSI6MjExLCJldmVudFR5cGUiOiJhY3Rpb24iLCJldmVudElkIjoiZTBjNGFkZGYtOTE5OS00M2E2LWFhOGEtZjAwNzUyZDZmM2NkIiwiYWN0aW9uVHlwZSI6ImV4dGVybmFsTGluayIsImV2ZW50T3JkaW5hbCI6MCwidWlFbGVtZW50Ijp7Im5hbWUiOiJjYWxsVG9BY3Rpb25CdXR0b24iLCJvd25lck5hbWUiOiJhZHNCYW5uZXIiLCJwb3NpdGlvbiI6MywiZnJhbWVVdWlkIjoiZGIwMzJhZGEtOTliMC00ZTcyLThhZDEtN2E4Zjc4YTczMjZhIn0sInBheWxvYWQiOnsiY2FsbFRvQWN0aW9uIjp7ImFjdGlvblR5cGUiOiJsaW5rIiwidmFsdWUiOiJodHRwOi8vbGluay4yZ2lzLnJ1LzEuMi8yOUY1RTk4Qi9vbmxpbmUvMjAyNjEwMDEvcHJvamVjdDY3LzcwMDAwMDAxMDY2NjYwNDY1L251bGwvamRwNG03djk0ZGY1ZUE4ZDRKOEhHNElBSEdJSUdIMkpxZURjcnFEeWVkLTk4NjMwMTMxNjk4Nkk3NzY5MTQ4Ny03MEIwMDRkMzcwNEoyOEMzOTJDNTc1N0gxSTNKSDU1aWZCNmZjaGQ2NTg1RzRHMjAzMjAwMDEwSDFKM0k0MjY3Qz9odHRwczovL2FwcC5hcm5pY2EucHJvL2Jvb2tpbmcvYm9va2luZz9vcmdpZD03MDE1NSMvbWFpbiJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDExMDk2OTg3MjciLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X0taIiwic2VnbWVudElkIjoiNjcifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NzYuOTUwOTIzLCJsYXQiOjQzLjIzMjgxNn0sIm1haW5SdWJyaWMiOiI1NjAzIiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiNzAwMDAwMDExMDk2OTg3MjYiLCJoYXNNb2RlbCI6ZmFsc2V9LCJhZHNCYW5uZXIiOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNjY2NjA0NjUiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X0taIiwic2VnbWVudElkIjoiNjcifX0sIm1haW5SdWJyaWMiOiIzMDUiLCJvcmciOiI3MDAwMDAwMTA2NjY2MDQ2NCIsImFkc0FsZ29yaXRobSI6MjAsImF1Y3Rpb25JZCI6IjZjMGNhNDRkLTE0MzItNDcxZi04MmQ2LTJjN2Q1N2U4ODQ5YSIsImNvbnRleHRSdWJyaWMiOiIzMDUiLCJwb3NpdGlvbiI6MywiYWRzSGlnaGxpZ2h0IjpmYWxzZX0sImV4dGVybmFsTGluayI6eyJmb3JrRXZlbnRPcmRpbmFsIjoxMCwicGFyZW50VGFiSWQiOiI4NWVlYTNmYy1lOWNiLTQyNjctYjJlMS1kNTYyODk2NjYxZjEifX0sImFiVGVzdCI6W3sibmFtZSI6Ik1hcFJlZGVzaWduIiwidmFsdWUiOiJmdWxsTWFwUmVkZXNpZ25fMSJ9LHsibmFtZSI6ImFkTWFya2Vyc0J1YmJsZVdpdGhCZyIsInZhbHVlIjoibmV3QWRNYXJrZXJzXzIifSx7Im5hbWUiOiJkYXNoYm9hcmRSZWRlc2lnbiIsInZhbHVlIjoicmVkZXNpZ25Hcm91cF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNDUwLCJoZWlnaHQiOjk1MH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjE0NTAsImhlaWdodCI6OTUwfX0sInVzZXJTZXR0aW5ncyI6eyJtYXAiOnsiZWZmZWN0c0xldmVsIjoiZGVmYXVsdCIsIjNkTWFwIjp0cnVlfX19XQ%3D%3D"
+        },
+        {
+          "text": "Записаться",
+          "href": "https://link.2gis.com/4.2/5123CE5D/aHR0cDovL2FwaS53aGF0c2FwcC5jb20vc2VuZC8%2FcGhvbmU9NzcwMTE3MjYzMzMmdGV4dD0lRDAlOTclRDAlQjQlRDElODAlRDAlQjAlRDAlQjIlRDElODElRDElODIlRDAlQjIlRDElODMlRDAlQjklRDElODIlRDAlQjUhJTBBJTBBJUQwJTlGJUQwJUI4JUQxJTg4JUQxJTgzKyVEMCVCOCVEMCVCNyslRDAlQkYlRDElODAlRDAlQjglRDAlQkIlRDAlQkUlRDAlQjYlRDAlQjUlRDAlQkQlRDAlQjglRDElOEYrMiVEMCU5MyVEMCU5OCVEMCVBMS4lMEElMEEmdHlwZT1waG9uZV9udW1iZXImYXBwX2Fic2VudD0wCmh0dHBzOi8vczEuYnNzLjJnaXMuY29tL2Jzcy8zClt7ImNvbW1vbiI6eyJmb3JtYXRWZXJzaW9uIjozLCJhcHBWZXJzaW9uIjoiMjAyNi0xMC0wMi0xNyIsInByb2R1Y3QiOjM0LCJhcGlrZXkiOiJjN2YxYTc2OS1jOGE1LTQ2MzYtYjE0ZC1kOGM5ODc4MDhhMTIiLCJhcGlrZXlTdGF0dXMiOjEsImRldmljZUxvY2FsZSI6InJ1X0taIiwidXNlciI6ImFhOWE0ODM2LWMxMTMtNDIwMi04OTgyLWMzODlkMTA4ZDdjZSIsImlwIjoiMTg4LjI0My4yMjQuNjIiLCJzZXNzaW9uSWQiOiIxYTE4ZTA5Yi1hYmQ5LTQ0MmItOWFlMS0zYWQ4NjVjY2JlNmMiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTU0LjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1NC4wLjAuMCIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiJmYWI1YWMwNi0zMzYxLTRhYjYtYjdmYS00NGRlNzk5ZTcwNTUiLCJ0aW1lc3RhbXAiOjE3OTEyMDY4NjQyOTAsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6ImJhMGU4NWNiLWM4NjctNDQ0Ny05NGMwLTRjNDA3NzYwNTBlNiIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoiYWRzQmFubmVyIiwicG9zaXRpb24iOjQsImZyYW1lVXVpZCI6ImRiMDMyYWRhLTk5YjAtNGU3Mi04YWQxLTdhOGY3OGE3MzI2YSJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvMTA1OUE3OTgvb25saW5lLzIwMjYxMDAxL3Byb2plY3Q2Ny83MDAwMDAwMTA1NzU1ODQ4OC9udWxsL3BuaWwzd0EzNGRmNWVBOGQ0SjhIRzRJQUhHSUlHSDJKQWl5bXVobnNlZC05ODYzMDEzMTY5ODZJNjg1ODk0QUEtNzBCMDA0ZDM3MDRKMjhDMzkyQzU3NTdIMUkzSkg1NWlmQjZmY2hkNjU4NUc0RzIwMzIwMDAxMEgxSjNJNDI2NTY%2FaHR0cDovL2FwaS53aGF0c2FwcC5jb20vc2VuZC8%2FcGhvbmU9NzcwMTE3MjYzMzMmdGV4dD0lRDAlOTclRDAlQjQlRDElODAlRDAlQjAlRDAlQjIlRDElODElRDElODIlRDAlQjIlRDElODMlRDAlQjklRDElODIlRDAlQjUhJTBBJTBBJUQwJTlGJUQwJUI4JUQxJTg4JUQxJTgzKyVEMCVCOCVEMCVCNyslRDAlQkYlRDElODAlRDAlQjglRDAlQkIlRDAlQkUlRDAlQjYlRDAlQjUlRDAlQkQlRDAlQjglRDElOEYrMiVEMCU5MyVEMCU5OCVEMCVBMS4lMEElMEEmdHlwZT1waG9uZV9udW1iZXImYXBwX2Fic2VudD0wIn0sInBsYWNlSXRlbSI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTEwOTY5ODcyNyIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfS1oiLCJzZWdtZW50SWQiOiI2NyJ9fSwiZ2VvUG9zaXRpb24iOnsibG9uIjo3Ni45NTA5MjMsImxhdCI6NDMuMjMyODE2fSwibWFpblJ1YnJpYyI6IjU2MDMiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTEwOTY5ODcyNiIsImhhc01vZGVsIjpmYWxzZX0sImFkc0Jhbm5lciI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTA1NzU1ODQ4OCIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfS1oiLCJzZWdtZW50SWQiOiI2NyJ9fSwibWFpblJ1YnJpYyI6IjMwNSIsIm9yZyI6IjcwMDAwMDAxMDU3NTU4NDg3IiwiYWRzQWxnb3JpdGhtIjoyMCwiYXVjdGlvbklkIjoiNmMwY2E0NGQtMTQzMi00NzFmLTgyZDYtMmM3ZDU3ZTg4NDlhIiwiY29udGV4dFJ1YnJpYyI6IjMwNSIsInBvc2l0aW9uIjo0LCJhZHNIaWdobGlnaHQiOmZhbHNlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjEwLCJwYXJlbnRUYWJJZCI6Ijg1ZWVhM2ZjLWU5Y2ItNDI2Ny1iMmUxLWQ1NjI4OTY2NjFmMSJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoiTWFwUmVkZXNpZ24iLCJ2YWx1ZSI6ImZ1bGxNYXBSZWRlc2lnbl8xIn0seyJuYW1lIjoiYWRNYXJrZXJzQnViYmxlV2l0aEJnIiwidmFsdWUiOiJuZXdBZE1hcmtlcnNfMiJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE0NTAsImhlaWdodCI6OTUwfSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d"
+        },
+        {
+          "text": "Записаться",
+          "href": "https://link.2gis.com/4.2/29783B37/aHR0cHM6Ly9kaWtpZGkucnUvMTk4MTkwNApodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMTAtMDItMTciLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9LWiIsInVzZXIiOiJhYTlhNDgzNi1jMTEzLTQyMDItODk4Mi1jMzg5ZDEwOGQ3Y2UiLCJpcCI6IjE4OC4yNDMuMjI0LjYyIiwic2Vzc2lvbklkIjoiMWExOGUwOWItYWJkOS00NDJiLTlhZTEtM2FkODY1Y2NiZTZjIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1NC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTQuMC4wLjAiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiOWQzNWJlNDMtODc1NS00ZTBmLTgxNzAtZDBiMTg3MDNkNmU4IiwidGltZXN0YW1wIjoxNzkxMjA2ODY0MjkxLCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiI5MmIxMTI2MS1kMjBlLTRlNjgtOWRkNS1mYjkwNjBjYjY3YWQiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNhbGxUb0FjdGlvbkJ1dHRvbiIsIm93bmVyTmFtZSI6ImFkc0Jhbm5lciIsInBvc2l0aW9uIjo1LCJmcmFtZVV1aWQiOiJkYjAzMmFkYS05OWIwLTRlNzItOGFkMS03YThmNzhhNzMyNmEifSwicGF5bG9hZCI6eyJjYWxsVG9BY3Rpb24iOnsiYWN0aW9uVHlwZSI6ImxpbmsiLCJ2YWx1ZSI6Imh0dHA6Ly9saW5rLjJnaXMucnUvMS4yLzJFQzMzODE1L29ubGluZS8yMDI2MTAwMS9wcm9qZWN0NjcvNzAwMDAwMDEwMjkyNDcxMDcvbnVsbC9zZ242NjhobTRkZjVlQThkNEo4SEc0SUFIR0lJR0gySnhmbTVuNzc5ZWQtOTg2MzAxMzE2OTg2STNBMjc4MTI5LTcwQjAwNGQzNzA0SjI4QzM5MkM1NzU3SDFJM0pINTVpZkI2ZmNoZDY1ODVHNEcyMDMyMDAwMTBIMUozSTQyNjE5P2h0dHBzOi8vZGlraWRpLnJ1LzE5ODE5MDQifSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMTA5Njk4NzI3IiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9LWiIsInNlZ21lbnRJZCI6IjY3In19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjc2Ljk1MDkyMywibGF0Ijo0My4yMzI4MTZ9LCJtYWluUnVicmljIjoiNTYwMyIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMTA5Njk4NzI2IiwiaGFzTW9kZWwiOmZhbHNlfSwiYWRzQmFubmVyIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDI5MjQ3MTA3IiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9LWiIsInNlZ21lbnRJZCI6IjY3In19LCJtYWluUnVicmljIjoiMzA1Iiwib3JnIjoiNzAwMDAwMDEwMjkyNDcxMDYiLCJhZHNBbGdvcml0aG0iOjIwLCJhdWN0aW9uSWQiOiI2YzBjYTQ0ZC0xNDMyLTQ3MWYtODJkNi0yYzdkNTdlODg0OWEiLCJjb250ZXh0UnVicmljIjoiMzA1IiwicG9zaXRpb24iOjUsImFkc0hpZ2hsaWdodCI6ZmFsc2V9LCJleHRlcm5hbExpbmsiOnsiZm9ya0V2ZW50T3JkaW5hbCI6MTAsInBhcmVudFRhYklkIjoiODVlZWEzZmMtZTljYi00MjY3LWIyZTEtZDU2Mjg5NjY2MWYxIn19LCJhYlRlc3QiOlt7Im5hbWUiOiJNYXBSZWRlc2lnbiIsInZhbHVlIjoiZnVsbE1hcFJlZGVzaWduXzEifSx7Im5hbWUiOiJhZE1hcmtlcnNCdWJibGVXaXRoQmciLCJ2YWx1ZSI6Im5ld0FkTWFya2Vyc18yIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18xIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMSJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjoxNDUwLCJoZWlnaHQiOjk1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D"
+        },
+        {
+          "text": "Это моя компания",
+          "href": "https://redirect.2gis.com/account/?language=ru&id=67&firmId=70000001109698726&utm_source=online&utm_medium=product&utm_campaign=firmcard"
+        },
+        {
+          "text": "Реклама в 2ГИС ↗",
+          "href": "http://redirect.2gis.com/adv/?language=ru&page=online_owner&id=67&calculate_for=70000001109698727&utm_source=online&utm_medium=product&utm_campaign=firmcard"
+        },
+        {
+          "text": "2ГИС для Android",
+          "href": "https://2gis.onelink.me/oJqA?af_js_web=true&af_ss_ver=2_7_2&pid=online&c=cardFooter&deep_link_value=dgis://2gis.kz/almaty/firm/70000001109698727&af_sub4=online&af_sub5=cardFooter&af_ss_ui=true&af_dp=https://"
+        },
+        {
+          "text": "2ГИС для iOS",
+          "href": "https://2gis.onelink.me/65w0?af_js_web=true&af_ss_ver=2_7_2&pid=online&c=cardFooter&deep_link_value=dgis://2gis.kz/almaty/firm/70000001109698727&af_sub4=online&af_sub5=cardFooter&af_ss_ui=true&af_dp=https://"
+        }
+      ]
+    },
+    "services": {
+      "url": "https://2gis.kz/almaty/firm/70000001109698727",
+      "title": "Velara, салон красоты на карте, Студии ногтевого сервиса, Алматы — 2ГИС",
+      "heading": "Velara",
+      "meta": "Velara, салон красоты: адреса со входами на карте, отзывы, фото, номера телефонов, время работы и как доехать. Женский педикюр, Наращивание гелем, Наращивание акрилом, Мужской маникюр, Детский маникюр, Японский маникюр, Гель-лак, Аппаратный маникюр, Парафиновые ванночки, Мужской педикюр",
+      "text": "Сохранить\nОтправить\nМаршрут\nVelara \nСалон красоты\n4.8\nПодтверждён\n(94)\nКонтакты\nИнфо\nОтзывы\n76\nЦены\nФото\n25\nВопросы\n​МФК Samal Mall​Проспект Назарбаева, 226​1 этаж\nСамал-2 м-н, Медеуский район, Алматы, 050059/A15C0B9\nПоказать вход\nОткрыто\nЕжедневно с 10:00 до 22:00\nzapis.kz/salon/13073\nInstagram\nWhatsApp\nПохожие организации\nNogti Mania, студия красоты\nМаникюр с гелевым покрытием от 7000 тг. Профессионально и с гарантией!\nПозвонить\nРеклама\nBadi, салон красоты\nВсе виды услуг. Доступные цены!\nЗаписаться\nMontebello, салон красоты\nДля клиентов из 2ГИС скидка 15% на мужскую стрижку и окрашивание*\nЗаписаться онлайн\nКерім, салон\nМужская и женская стрижка от 4000 ₸. Маникюр 4000 ₸. Макияж от 8000 ₸\nЗаписаться\nDili, салон красоты\nКератин, ботокс — 16 990 ₸. Шугаринг, комплекс — 7990 ₸\nЗаписаться\nВопросы о месте\nОтвечает ИИ-помощник\nРасскажи об этой ногтевой студии\nКакие услуги доступны в студии?\nСколько стоит классический маникюр?\nЕсть ли запись или очередь?\nКакой режим работы?\nРасскажи о вакансиях\nЗадать свой вопрос\nНашли ошибку в данных?\n​Это моя компания​Реклама в 2ГИС ↗\n​2ГИС для Android​2ГИС для iOS\nДобавить заметку",
+      "links": [
+        {
+          "text": "Маршрут",
+          "href": "https://2gis.kz/almaty/directions/points/%7C76.950923%2C43.232816%3B70000001109698727"
+        },
+        {
+          "text": "Контакты",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727"
+        },
+        {
+          "text": "Инфо",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727/tab/info"
+        },
+        {
+          "text": "Отзывы 76",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727/tab/reviews"
+        },
+        {
+          "text": "Цены",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727/tab/menu"
+        },
+        {
+          "text": "Фото 25",
+          "href": "https://2gis.kz/almaty/gallery/firm/70000001109698727"
+        },
+        {
+          "text": "Вопросы",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727/tab/questions"
+        },
+        {
+          "text": "Проспект Назарбаева, 226",
+          "href": "https://2gis.kz/almaty/geo/9430047375107514"
+        },
+        {
+          "text": "zapis.kz/salon/13073",
+          "href": "https://link.2gis.com/4.2/CD76A74D/aHR0cDovL3phcGlzLmt6L3NhbG9uLzEzMDczCmh0dHBzOi8vczEuYnNzLjJnaXMuY29tL2Jzcy8zClt7ImNvbW1vbiI6eyJmb3JtYXRWZXJzaW9uIjozLCJhcHBWZXJzaW9uIjoiMjAyNi0xMC0wMi0xNyIsInByb2R1Y3QiOjM0LCJhcGlrZXkiOiJjN2YxYTc2OS1jOGE1LTQ2MzYtYjE0ZC1kOGM5ODc4MDhhMTIiLCJhcGlrZXlTdGF0dXMiOjEsImRldmljZUxvY2FsZSI6InJ1X0taIiwidXNlciI6ImFhOWE0ODM2LWMxMTMtNDIwMi04OTgyLWMzODlkMTA4ZDdjZSIsImlwIjoiMTg4LjI0My4yMjQuNjIiLCJzZXNzaW9uSWQiOiIxYTE4ZTA5Yi1hYmQ5LTQ0MmItOWFlMS0zYWQ4NjVjY2JlNmMiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTU0LjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1NC4wLjAuMCIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiJiMDRjMTI4OC1lMGU3LTQ1NjEtYTcwMy03ODI1ZWM4NjQ1YWEiLCJ0aW1lc3RhbXAiOjE3OTEyMDY4Njk1ODIsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6IjVhZmIyZWYzLTQzNTgtNDFmYi1iNDhhLWRmZDk2NzJhMTI3YSIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY29udGFjdCIsIm93bmVyTmFtZSI6ImNhcmRDb250YWN0cyIsInBvc2l0aW9uIjoxLCJmcmFtZVV1aWQiOiJlOWI1ODAwYi1mZjZkLTRkNTAtYTExZS0zOGVkODExMTU0NmEifSwicGF5bG9hZCI6eyJjb250YWN0Ijp7InZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvOTE3OTU1MUMvb25saW5lLzIwMjYxMDAxL3Byb2plY3Q2Ny83MDAwMDAwMTEwOTY5ODcyNy9udWxsL3ZCbDV5cTM5ODYzMDRkQ0kzOTJDNTFKM0lIMkhpbjc1dmR0MDA0ZGVkLTM3MDRKMjhHNElBMDMyY2hkLTcwQjU4NUc0RzJDMTMxNjk4NkM5NzQ5SHk4aWZCNmZmNWVBOGQ2NzU3QUo4SDAwMDExMUEySEk2SkhKSUhHNEk1ZT9odHRwOi8vemFwaXMua3ovc2Fsb24vMTMwNzMiLCJ0eXBlIjoid2Vic2l0ZSIsInBvc2l0aW9uIjoxfSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMTA5Njk4NzI3IiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9LWiIsInNlZ21lbnRJZCI6IjY3In19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjc2Ljk1MDkyMywibGF0Ijo0My4yMzI4MTZ9LCJtYWluUnVicmljIjoiNTYwMyIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMTA5Njk4NzI2IiwiaGFzTW9kZWwiOmZhbHNlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjMsInBhcmVudFRhYklkIjoiYjVjZTk5NDktODA2NS00MDE5LTlkYjctMzZmNjZmNzVmMTMwIn19LCJhYlRlc3QiOlt7Im5hbWUiOiJNYXBSZWRlc2lnbiIsInZhbHVlIjoiZnVsbE1hcFJlZGVzaWduXzEifSx7Im5hbWUiOiJhZE1hcmtlcnNCdWJibGVXaXRoQmciLCJ2YWx1ZSI6Im5ld0FkTWFya2Vyc18yIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18xIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMSJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjoxNDUwLCJoZWlnaHQiOjk1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D"
+        },
+        {
+          "text": "Instagram",
+          "href": "https://link.2gis.com/4.2/B3488904/aHR0cHM6Ly9pbnN0YWdyYW0uY29tL3ZlbGFyYS5iZWF1dHkuc3R1ZGlvCmh0dHBzOi8vczEuYnNzLjJnaXMuY29tL2Jzcy8zClt7ImNvbW1vbiI6eyJmb3JtYXRWZXJzaW9uIjozLCJhcHBWZXJzaW9uIjoiMjAyNi0xMC0wMi0xNyIsInByb2R1Y3QiOjM0LCJhcGlrZXkiOiJjN2YxYTc2OS1jOGE1LTQ2MzYtYjE0ZC1kOGM5ODc4MDhhMTIiLCJhcGlrZXlTdGF0dXMiOjEsImRldmljZUxvY2FsZSI6InJ1X0taIiwidXNlciI6ImFhOWE0ODM2LWMxMTMtNDIwMi04OTgyLWMzODlkMTA4ZDdjZSIsImlwIjoiMTg4LjI0My4yMjQuNjIiLCJzZXNzaW9uSWQiOiIxYTE4ZTA5Yi1hYmQ5LTQ0MmItOWFlMS0zYWQ4NjVjY2JlNmMiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTU0LjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1NC4wLjAuMCIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiJhYjU3ZDM5ZC01NDY4LTQ2MDQtYjQxNS0yYzFiZTlhMGU1OTEiLCJ0aW1lc3RhbXAiOjE3OTEyMDY4Njk1ODMsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6ImIyZTAwNzU3LTcyNzQtNGUyZC1iOTQ5LWYyZGEyZDFjNTg3YSIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY29udGFjdCIsIm93bmVyTmFtZSI6ImNhcmRDb250YWN0cyIsInBvc2l0aW9uIjoxLCJmcmFtZVV1aWQiOiJlOWI1ODAwYi1mZjZkLTRkNTAtYTExZS0zOGVkODExMTU0NmEifSwicGF5bG9hZCI6eyJjb250YWN0Ijp7InZhbHVlIjoiaHR0cHM6Ly9pbnN0YWdyYW0uY29tL3ZlbGFyYS5iZWF1dHkuc3R1ZGlvIiwidHlwZSI6Imluc3RhZ3JhbSIsInBvc2l0aW9uIjoxfSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMTA5Njk4NzI3IiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9LWiIsInNlZ21lbnRJZCI6IjY3In19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjc2Ljk1MDkyMywibGF0Ijo0My4yMzI4MTZ9LCJtYWluUnVicmljIjoiNTYwMyIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMTA5Njk4NzI2IiwiaGFzTW9kZWwiOmZhbHNlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjMsInBhcmVudFRhYklkIjoiYjVjZTk5NDktODA2NS00MDE5LTlkYjctMzZmNjZmNzVmMTMwIn19LCJhYlRlc3QiOlt7Im5hbWUiOiJNYXBSZWRlc2lnbiIsInZhbHVlIjoiZnVsbE1hcFJlZGVzaWduXzEifSx7Im5hbWUiOiJhZE1hcmtlcnNCdWJibGVXaXRoQmciLCJ2YWx1ZSI6Im5ld0FkTWFya2Vyc18yIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18xIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMSJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjoxNDUwLCJoZWlnaHQiOjk1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D"
+        },
+        {
+          "text": "WhatsApp",
+          "href": "https://link.2gis.com/4.2/23708A72/aHR0cHM6Ly93YS5tZS83NzcxODA4NjY2Nj90ZXh0PSVEMCU5NyVEMCVCNCVEMSU4MCVEMCVCMCVEMCVCMiVEMSU4MSVEMSU4MiVEMCVCMiVEMSU4MyVEMCVCOSVEMSU4MiVEMCVCNSElMEElMEElRDAlOUYlRDAlQjglRDElODglRDElODMlMjAlRDAlQjglRDAlQjclMjAlRDAlQkYlRDElODAlRDAlQjglRDAlQkIlRDAlQkUlRDAlQjYlRDAlQjUlRDAlQkQlRDAlQjglRDElOEYlMjAyJUQwJTkzJUQwJTk4JUQwJUExLiUwQSUwQQpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMTAtMDItMTciLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9LWiIsInVzZXIiOiJhYTlhNDgzNi1jMTEzLTQyMDItODk4Mi1jMzg5ZDEwOGQ3Y2UiLCJpcCI6IjE4OC4yNDMuMjI0LjYyIiwic2Vzc2lvbklkIjoiMWExOGUwOWItYWJkOS00NDJiLTlhZTEtM2FkODY1Y2NiZTZjIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1NC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTQuMC4wLjAiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiZGEzNmEwNzMtZmE2YS00MWQ5LTlmZDAtNzBiOTNkZjAzMTdjIiwidGltZXN0YW1wIjoxNzkxMjA2ODY5NTgzLCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiIyZTBkMGY2OS1kNjhkLTRlNzgtYTA3OC04NjgwMjBkMTJhN2EiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNvbnRhY3QiLCJvd25lck5hbWUiOiJjYXJkQ29udGFjdHMiLCJwb3NpdGlvbiI6MiwiZnJhbWVVdWlkIjoiZTliNTgwMGItZmY2ZC00ZDUwLWExMWUtMzhlZDgxMTE1NDZhIn0sInBheWxvYWQiOnsiY29udGFjdCI6eyJ2YWx1ZSI6Imh0dHBzOi8vd2EubWUvNzc3MTgwODY2NjY%2FdGV4dD0lRDAlOTclRDAlQjQlRDElODAlRDAlQjAlRDAlQjIlRDElODElRDElODIlRDAlQjIlRDElODMlRDAlQjklRDElODIlRDAlQjUhJTBBJTBBJUQwJTlGJUQwJUI4JUQxJTg4JUQxJTgzJTIwJUQwJUI4JUQwJUI3JTIwJUQwJUJGJUQxJTgwJUQwJUI4JUQwJUJCJUQwJUJFJUQwJUI2JUQwJUI1JUQwJUJEJUQwJUI4JUQxJThGJTIwMiVEMCU5MyVEMCU5OCVEMCVBMS4lMEElMEEiLCJ0eXBlIjoid2hhdHNhcHAiLCJwb3NpdGlvbiI6Mn0sInBsYWNlSXRlbSI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTEwOTY5ODcyNyIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfS1oiLCJzZWdtZW50SWQiOiI2NyJ9fSwiZ2VvUG9zaXRpb24iOnsibG9uIjo3Ni45NTA5MjMsImxhdCI6NDMuMjMyODE2fSwibWFpblJ1YnJpYyI6IjU2MDMiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTEwOTY5ODcyNiIsImhhc01vZGVsIjpmYWxzZX0sImV4dGVybmFsTGluayI6eyJmb3JrRXZlbnRPcmRpbmFsIjozLCJwYXJlbnRUYWJJZCI6ImI1Y2U5OTQ5LTgwNjUtNDAxOS05ZGI3LTM2ZjY2Zjc1ZjEzMCJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoiTWFwUmVkZXNpZ24iLCJ2YWx1ZSI6ImZ1bGxNYXBSZWRlc2lnbl8xIn0seyJuYW1lIjoiYWRNYXJrZXJzQnViYmxlV2l0aEJnIiwidmFsdWUiOiJuZXdBZE1hcmtlcnNfMiJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE0NTAsImhlaWdodCI6OTUwfSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d"
+        },
+        {
+          "text": "Позвонить",
+          "href": "tel:+77272799007"
+        },
+        {
+          "text": "Записаться",
+          "href": "tel:+77019496008"
+        },
+        {
+          "text": "Записаться онлайн",
+          "href": "https://link.2gis.com/4.2/A0FE4E43/aHR0cHM6Ly9hcHAuYXJuaWNhLnByby9ib29raW5nL2Jvb2tpbmc%2Fb3JnaWQ9NzAxNTUjL21haW4KaHR0cHM6Ly9zMS5ic3MuMmdpcy5jb20vYnNzLzMKW3siY29tbW9uIjp7ImZvcm1hdFZlcnNpb24iOjMsImFwcFZlcnNpb24iOiIyMDI2LTEwLTAyLTE3IiwicHJvZHVjdCI6MzQsImFwaWtleSI6ImM3ZjFhNzY5LWM4YTUtNDYzNi1iMTRkLWQ4Yzk4NzgwOGExMiIsImFwaWtleVN0YXR1cyI6MSwiZGV2aWNlTG9jYWxlIjoicnVfS1oiLCJ1c2VyIjoiYWE5YTQ4MzYtYzExMy00MjAyLTg5ODItYzM4OWQxMDhkN2NlIiwiaXAiOiIxODguMjQzLjIyNC42MiIsInNlc3Npb25JZCI6IjFhMThlMDliLWFiZDktNDQyYi05YWUxLTNhZDg2NWNjYmU2YyIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTQuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTU0LjAuMC4wIiwiZGV2aWNlVHlwZSI6ImRlc2t0b3AiLCJwZXJzb25hbERhdGFDb2xsZWN0aW9uQWxsb3dlZCI6dHJ1ZSwidGFiSXNBY3RpdmUiOnRydWV9LCJ1dGNPZmZzZXQiOiIrMDM6MDAiLCJ0YWJJZCI6ImJhYWY2YjY3LWIyM2QtNDM1NC1iOTdlLWQ3ZDcxZjI0NTFmMiIsInRpbWVzdGFtcCI6MTc5MTIwNjg2OTU4NCwidHlwZSI6MjExLCJldmVudFR5cGUiOiJhY3Rpb24iLCJldmVudElkIjoiMGVlNzAwMDQtMDRlOC00NjZmLTlmZDQtYjIwZjRiNzhkNWEyIiwiYWN0aW9uVHlwZSI6ImV4dGVybmFsTGluayIsImV2ZW50T3JkaW5hbCI6MCwidWlFbGVtZW50Ijp7Im5hbWUiOiJjYWxsVG9BY3Rpb25CdXR0b24iLCJvd25lck5hbWUiOiJhZHNCYW5uZXIiLCJwb3NpdGlvbiI6MywiZnJhbWVVdWlkIjoiZTliNTgwMGItZmY2ZC00ZDUwLWExMWUtMzhlZDgxMTE1NDZhIn0sInBheWxvYWQiOnsiY2FsbFRvQWN0aW9uIjp7ImFjdGlvblR5cGUiOiJsaW5rIiwidmFsdWUiOiJodHRwOi8vbGluay4yZ2lzLnJ1LzEuMi8yOUY1RTk4Qi9vbmxpbmUvMjAyNjEwMDEvcHJvamVjdDY3LzcwMDAwMDAxMDY2NjYwNDY1L251bGwva2hEN2M5d0U0ZGY1ZUE4ZEFKOEhHNElBSEdJSUdIMkozcXFtcW05QWVkLTk4NjMwMTMxNjk4Q0k3NzY5MTQ4Ny03MEIwMDRkMzcwNEoyOEMzOTJDNTc1N0gxSTNKSDU1aWZCNmZjaGQ2NTg1RzRHMjAzMjAwMDEwSDFKM0k0MjY3aD9odHRwczovL2FwcC5hcm5pY2EucHJvL2Jvb2tpbmcvYm9va2luZz9vcmdpZD03MDE1NSMvbWFpbiJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDExMDk2OTg3MjciLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X0taIiwic2VnbWVudElkIjoiNjcifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NzYuOTUwOTIzLCJsYXQiOjQzLjIzMjgxNn0sIm1haW5SdWJyaWMiOiI1NjAzIiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiNzAwMDAwMDExMDk2OTg3MjYiLCJoYXNNb2RlbCI6ZmFsc2V9LCJhZHNCYW5uZXIiOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNjY2NjA0NjUiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X0taIiwic2VnbWVudElkIjoiNjcifX0sIm1haW5SdWJyaWMiOiIzMDUiLCJvcmciOiI3MDAwMDAwMTA2NjY2MDQ2NCIsImFkc0FsZ29yaXRobSI6MjAsImF1Y3Rpb25JZCI6IjlmYWFiNjNkLWJmMzItNDUzOS1hNzUwLWQ3NjgzNDAzNGRmNCIsImNvbnRleHRSdWJyaWMiOiIzMDUiLCJwb3NpdGlvbiI6MywiYWRzSGlnaGxpZ2h0IjpmYWxzZX0sImV4dGVybmFsTGluayI6eyJmb3JrRXZlbnRPcmRpbmFsIjozLCJwYXJlbnRUYWJJZCI6ImI1Y2U5OTQ5LTgwNjUtNDAxOS05ZGI3LTM2ZjY2Zjc1ZjEzMCJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoiTWFwUmVkZXNpZ24iLCJ2YWx1ZSI6ImZ1bGxNYXBSZWRlc2lnbl8xIn0seyJuYW1lIjoiYWRNYXJrZXJzQnViYmxlV2l0aEJnIiwidmFsdWUiOiJuZXdBZE1hcmtlcnNfMiJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE0NTAsImhlaWdodCI6OTUwfSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d"
+        },
+        {
+          "text": "Записаться",
+          "href": "https://link.2gis.com/4.2/44826CE7/aHR0cDovL2FwaS53aGF0c2FwcC5jb20vc2VuZC8%2FcGhvbmU9NzcwMTE3MjYzMzMmdGV4dD0lRDAlOTclRDAlQjQlRDElODAlRDAlQjAlRDAlQjIlRDElODElRDElODIlRDAlQjIlRDElODMlRDAlQjklRDElODIlRDAlQjUhJTBBJTBBJUQwJTlGJUQwJUI4JUQxJTg4JUQxJTgzKyVEMCVCOCVEMCVCNyslRDAlQkYlRDElODAlRDAlQjglRDAlQkIlRDAlQkUlRDAlQjYlRDAlQjUlRDAlQkQlRDAlQjglRDElOEYrMiVEMCU5MyVEMCU5OCVEMCVBMS4lMEElMEEmdHlwZT1waG9uZV9udW1iZXImYXBwX2Fic2VudD0wCmh0dHBzOi8vczEuYnNzLjJnaXMuY29tL2Jzcy8zClt7ImNvbW1vbiI6eyJmb3JtYXRWZXJzaW9uIjozLCJhcHBWZXJzaW9uIjoiMjAyNi0xMC0wMi0xNyIsInByb2R1Y3QiOjM0LCJhcGlrZXkiOiJjN2YxYTc2OS1jOGE1LTQ2MzYtYjE0ZC1kOGM5ODc4MDhhMTIiLCJhcGlrZXlTdGF0dXMiOjEsImRldmljZUxvY2FsZSI6InJ1X0taIiwidXNlciI6ImFhOWE0ODM2LWMxMTMtNDIwMi04OTgyLWMzODlkMTA4ZDdjZSIsImlwIjoiMTg4LjI0My4yMjQuNjIiLCJzZXNzaW9uSWQiOiIxYTE4ZTA5Yi1hYmQ5LTQ0MmItOWFlMS0zYWQ4NjVjY2JlNmMiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTU0LjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1NC4wLjAuMCIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiJlMjc2OWFhYi01ODhlLTRjMDUtYWQ4NC02NzIyMTQ5ODVlYWQiLCJ0aW1lc3RhbXAiOjE3OTEyMDY4Njk1ODUsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6ImE0ZWM1ZTRkLTI4NTItNGJiMy04MDViLWY0MTk5OTE5NTU5NiIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoiYWRzQmFubmVyIiwicG9zaXRpb24iOjQsImZyYW1lVXVpZCI6ImU5YjU4MDBiLWZmNmQtNGQ1MC1hMTFlLTM4ZWQ4MTExNTQ2YSJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvMTA1OUE3OTgvb25saW5lLzIwMjYxMDAxL3Byb2plY3Q2Ny83MDAwMDAwMTA1NzU1ODQ4OC9udWxsL216emZjcWdjNGRmNWVBOGRBSjhIRzRJQUhHSUlHSDJKNXVEOXd0NDNlZC05ODYzMDEzMTY5OENJNjg1ODk0QUEtNzBCMDA0ZDM3MDRKMjhDMzkyQzU3NTdIMUkzSkg1NWlmQjZmY2hkNjU4NUc0RzIwMzIwMDAxMEgxSjNJNDI2NTU%2FaHR0cDovL2FwaS53aGF0c2FwcC5jb20vc2VuZC8%2FcGhvbmU9NzcwMTE3MjYzMzMmdGV4dD0lRDAlOTclRDAlQjQlRDElODAlRDAlQjAlRDAlQjIlRDElODElRDElODIlRDAlQjIlRDElODMlRDAlQjklRDElODIlRDAlQjUhJTBBJTBBJUQwJTlGJUQwJUI4JUQxJTg4JUQxJTgzKyVEMCVCOCVEMCVCNyslRDAlQkYlRDElODAlRDAlQjglRDAlQkIlRDAlQkUlRDAlQjYlRDAlQjUlRDAlQkQlRDAlQjglRDElOEYrMiVEMCU5MyVEMCU5OCVEMCVBMS4lMEElMEEmdHlwZT1waG9uZV9udW1iZXImYXBwX2Fic2VudD0wIn0sInBsYWNlSXRlbSI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTEwOTY5ODcyNyIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfS1oiLCJzZWdtZW50SWQiOiI2NyJ9fSwiZ2VvUG9zaXRpb24iOnsibG9uIjo3Ni45NTA5MjMsImxhdCI6NDMuMjMyODE2fSwibWFpblJ1YnJpYyI6IjU2MDMiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTEwOTY5ODcyNiIsImhhc01vZGVsIjpmYWxzZX0sImFkc0Jhbm5lciI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTA1NzU1ODQ4OCIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfS1oiLCJzZWdtZW50SWQiOiI2NyJ9fSwibWFpblJ1YnJpYyI6IjMwNSIsIm9yZyI6IjcwMDAwMDAxMDU3NTU4NDg3IiwiYWRzQWxnb3JpdGhtIjoyMCwiYXVjdGlvbklkIjoiOWZhYWI2M2QtYmYzMi00NTM5LWE3NTAtZDc2ODM0MDM0ZGY0IiwiY29udGV4dFJ1YnJpYyI6IjMwNSIsInBvc2l0aW9uIjo0LCJhZHNIaWdobGlnaHQiOmZhbHNlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjMsInBhcmVudFRhYklkIjoiYjVjZTk5NDktODA2NS00MDE5LTlkYjctMzZmNjZmNzVmMTMwIn19LCJhYlRlc3QiOlt7Im5hbWUiOiJNYXBSZWRlc2lnbiIsInZhbHVlIjoiZnVsbE1hcFJlZGVzaWduXzEifSx7Im5hbWUiOiJhZE1hcmtlcnNCdWJibGVXaXRoQmciLCJ2YWx1ZSI6Im5ld0FkTWFya2Vyc18yIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18xIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMSJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjoxNDUwLCJoZWlnaHQiOjk1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D"
+        },
+        {
+          "text": "Записаться",
+          "href": "https://link.2gis.com/4.2/F6FB9B56/aHR0cHM6Ly9kaWtpZGkucnUvMTk4MTkwNApodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMTAtMDItMTciLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9LWiIsInVzZXIiOiJhYTlhNDgzNi1jMTEzLTQyMDItODk4Mi1jMzg5ZDEwOGQ3Y2UiLCJpcCI6IjE4OC4yNDMuMjI0LjYyIiwic2Vzc2lvbklkIjoiMWExOGUwOWItYWJkOS00NDJiLTlhZTEtM2FkODY1Y2NiZTZjIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1NC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTQuMC4wLjAiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiMmU4NjQwZWItODI2ZC00NWIzLWI4ZDUtYzgzMjM5MmQzNDQzIiwidGltZXN0YW1wIjoxNzkxMjA2ODY5NTg1LCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiIyZDAxMGZiOS0zYTU1LTRiMzgtODZkYS1hZGM3MzY2ZTE3OGQiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNhbGxUb0FjdGlvbkJ1dHRvbiIsIm93bmVyTmFtZSI6ImFkc0Jhbm5lciIsInBvc2l0aW9uIjo1LCJmcmFtZVV1aWQiOiJlOWI1ODAwYi1mZjZkLTRkNTAtYTExZS0zOGVkODExMTU0NmEifSwicGF5bG9hZCI6eyJjYWxsVG9BY3Rpb24iOnsiYWN0aW9uVHlwZSI6ImxpbmsiLCJ2YWx1ZSI6Imh0dHA6Ly9saW5rLjJnaXMucnUvMS4yLzJFQzMzODE1L29ubGluZS8yMDI2MTAwMS9wcm9qZWN0NjcvNzAwMDAwMDEwMjkyNDcxMDcvbnVsbC9scnBEc29BZDRkZjVlQThkQUo4SEc0SUFIR0lJR0gySnpzMjZ2bnloZWQtOTg2MzAxMzE2OThDSTNBMjc4MTI5LTcwQjAwNGQzNzA0SjI4QzM5MkM1NzU3SDFJM0pINTVpZkI2ZmNoZDY1ODVHNEcyMDMyMDAwMTBIMUozSTQyNjZCP2h0dHBzOi8vZGlraWRpLnJ1LzE5ODE5MDQifSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMTA5Njk4NzI3IiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9LWiIsInNlZ21lbnRJZCI6IjY3In19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjc2Ljk1MDkyMywibGF0Ijo0My4yMzI4MTZ9LCJtYWluUnVicmljIjoiNTYwMyIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMTA5Njk4NzI2IiwiaGFzTW9kZWwiOmZhbHNlfSwiYWRzQmFubmVyIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDI5MjQ3MTA3IiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9LWiIsInNlZ21lbnRJZCI6IjY3In19LCJtYWluUnVicmljIjoiMzA1Iiwib3JnIjoiNzAwMDAwMDEwMjkyNDcxMDYiLCJhZHNBbGdvcml0aG0iOjIwLCJhdWN0aW9uSWQiOiI5ZmFhYjYzZC1iZjMyLTQ1MzktYTc1MC1kNzY4MzQwMzRkZjQiLCJjb250ZXh0UnVicmljIjoiMzA1IiwicG9zaXRpb24iOjUsImFkc0hpZ2hsaWdodCI6ZmFsc2V9LCJleHRlcm5hbExpbmsiOnsiZm9ya0V2ZW50T3JkaW5hbCI6MywicGFyZW50VGFiSWQiOiJiNWNlOTk0OS04MDY1LTQwMTktOWRiNy0zNmY2NmY3NWYxMzAifX0sImFiVGVzdCI6W3sibmFtZSI6Ik1hcFJlZGVzaWduIiwidmFsdWUiOiJmdWxsTWFwUmVkZXNpZ25fMSJ9LHsibmFtZSI6ImFkTWFya2Vyc0J1YmJsZVdpdGhCZyIsInZhbHVlIjoibmV3QWRNYXJrZXJzXzIifSx7Im5hbWUiOiJkYXNoYm9hcmRSZWRlc2lnbiIsInZhbHVlIjoicmVkZXNpZ25Hcm91cF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNDUwLCJoZWlnaHQiOjk1MH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjE0NTAsImhlaWdodCI6OTUwfX0sInVzZXJTZXR0aW5ncyI6eyJtYXAiOnsiZWZmZWN0c0xldmVsIjoiZGVmYXVsdCIsIjNkTWFwIjp0cnVlfX19XQ%3D%3D"
+        },
+        {
+          "text": "Это моя компания",
+          "href": "https://redirect.2gis.com/account/?language=ru&id=67&firmId=70000001109698726&utm_source=online&utm_medium=product&utm_campaign=firmcard"
+        },
+        {
+          "text": "Реклама в 2ГИС ↗",
+          "href": "http://redirect.2gis.com/adv/?language=ru&page=online_owner&id=67&calculate_for=70000001109698727&utm_source=online&utm_medium=product&utm_campaign=firmcard"
+        },
+        {
+          "text": "2ГИС для Android",
+          "href": "https://2gis.onelink.me/oJqA?af_js_web=true&af_ss_ver=2_7_2&pid=online&c=cardFooter&deep_link_value=dgis://2gis.kz/almaty/firm/70000001109698727&af_sub4=online&af_sub5=cardFooter&af_ss_ui=true&af_dp=https://"
+        },
+        {
+          "text": "2ГИС для iOS",
+          "href": "https://2gis.onelink.me/65w0?af_js_web=true&af_ss_ver=2_7_2&pid=online&c=cardFooter&deep_link_value=dgis://2gis.kz/almaty/firm/70000001109698727&af_sub4=online&af_sub5=cardFooter&af_ss_ui=true&af_dp=https://"
+        }
+      ]
+    },
+    "reviews": {
+      "url": "https://2gis.kz/almaty/firm/70000001109698727/tab/reviews",
+      "title": "Отзывы о Velara, салон красоты, МФК Samal Mall, проспект Назарбаева, 226, Алматы - 2ГИС",
+      "heading": "Velara",
+      "meta": "76 отзывов о Velara, салон красоты. Рейтинг 4.8 на основе 94 оценок, МФК Samal Mall, проспект Назарбаева, 226. Напишите свой отзыв о Velara, салон красоты",
+      "text": "Сохранить\nОтправить\nМаршрут\nVelara \nСалон красоты\n4.8\nПодтверждён\n(94)\nКонтакты\nИнфо\nОтзывы\n76\nЦены\nФото\n25\nВопросы\n4.8\nВсего 94 оценки\nКак формируется рейтинг?\nНа основе подтверждённых оценок\n\nОцените и оставьте отзыв\n\nПодтверждаем отзывы: оплаты, посещения, бронирования и чаевые\nПодробнее\n73 отзыва\nСначала подтверждённые\nОтличный персонал\nОтличный салон\nБыстро и качественно\nАккуратно и качественно\nПриятная атмосфера\nЧисто и аккуратно\nАккуратно и красиво\nХорошо стригут\nПриятный персонал\nПокрытие ровное\nОтличный сервис\nКачественный маникюр\nAU\nApple User\n27 отзывов\n23 августа 2026, изменён\nОчень довольна ламинированием ресниц! ✨ Ресницы стали красиво подкрученными, выразительными и визуально длиннее. Результат получился аккуратным и естественным — именно то, что я хотела. Спасибо мастеру Сеним за бережную работу и прекрасный результат! Обязательно приду ещё 💕\nЧитать целиком\nЧастый гость\nОтзыв подтверждён\nПолезно?\nVс\nVelara, салон красоты\n27 июля 2026, официальный ответ\nДобрый день , Apple! Благодарим за отзыв и оценку!!! Успехов вам! 🧡\nYS\nYekaterina Sleptsova\n7 отзывов\n20 августа 2026\nОгромное спасибо за преображение! Цвет получился именно таким, как я хотела. Отдельная благодарность за бережное отношение к волосам и полезные советы по уходу, мастеру Мухаммеду ❤️\nЧитать целиком\nЧастый гость\nОтзыв подтверждён\nПолезно?\nVс\nVelara, салон красоты\n22 августа 2026, официальный ответ\nЗдравствуйте, Yekaterina! Благодарим за теплые слова. Мы работаем для вас.\nТЁМЫЧ ЛОЛ\n3 отзыва\n22 сентября 2026\nБыл на проколе мочки уха у мастера Таисии , все было быстро аккуратно стерильно\n3 посещения\nОтзыв подтверждён\nПолезно?\nVс\nVelara, салон красоты\n27 сентября 2026, официальный ответ\nСпасибо вам большое за приятный отзыв 😉 Ждем вас в гости снова и снова ❤\nСамал Утегулова\n9 отзывов\n27 сентября 2026\nКоторый раз хожу к мастеру Тахмина- очень вежливая, аккуратная в работе ❤️❤️❤️\n3 посещения\nОтзыв подтверждён\nПолезно?\nVс\nVelara, салон красоты\n27 сентября 2026, официальный ответ\nДобрый день. Спасибо, Самал, за отзыв и оценку 💛 Мы рады, что вам всё понравилось 🤗\nTaisiya Massage\n11 отзывов\n14 сентября 2026\nКлассный салон, шикарная руководитель, отличный коллектив и я с ними\n3 посещения\nОтзыв подтверждён\nПолезно?\nНеподтвержденные отзывы3\nZhanar Yegizbay\n5 отзывов\n6 сентября 2026\nМастер Тахмина сделала очень красивые и аккуратные ногти🤍 работает очень бережно и профессионально, спасибо\n1 посещение\nОтзыв подтверждён\nПолезно?\nK\nKamila\n3 отзыва\n14 июля 2026, изменён\nОтличный салон!\nБурак бей прям мастер на все руки 🫰🏻\nЧастый гость\nОтзыв подтверждён\n1\nПолезно?\nVс\nVelara, салон красоты\n16 июля 2026, официальный ответ\nСпасибо, Kamila, Мы стараемся.❤️\nБП\nБумпа Пимба\n26 отзывов\n16 июля 2026, изменён\nПриятные люди, но укладку мне делали на волосы, вымытые только шампунем и может быть кондиционер. Никакого другого ухода, молчу про термозащиту. И вроде в конце обильно нанесли лак для закрепления, но укладка рассыпалась за час( И потратила на это 15000\nЧитать целиком\n1 посещение\nОтзыв подтверждён\nПолезно?\nVс\nVelara, салон красоты\n19 июля 2026, официальный ответ\nДобрый день! Напишите пожалуйста когда именно Вы посещали наш салон, имя мастера , у которого обслуж…\nMR\nMadina Rashidova\n7 отзывов\n8 июля 2026\nМастер Сенім 🔥🔥🔥🔥\nОднозначно рекомендую😍😍😍🤍\nСамая топовая.Работает очень качественно, всё подскажет и сделает просто идеально\nОчень довольна результатом😍\n\nСалон да Сервис топ 🔥🔥\nЧитать целиком\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nVс\nVelara, салон красоты\n9 июля 2026, официальный ответ\nMadina, здравствуйте! Спасибо, что выбираете нас! Ждём вас в гости снова 🙏🏼\nSK\nSibel Kartalkayassy\n5 отзывов\n21 марта 2026\nМастер Сеним , сделала наращивание ногтей, все понравилось!!! очень красиво 😍\n2 посещения\nОтзыв подтверждён\n1\nПолезно?\nГМ\nГазиза Мусаева\n7 отзывов\n21 апреля 2026\nМастер Сеним очень классная! Очень качественно и быстро сделала мне наращивание причем все качественно, аккуратно, безболезненно и главное красиво 🥹И на общение очень приятная.\nЧитать целиком\n2 посещения\nОтзыв подтверждён\n1\nПолезно?\nEK\nElina Kim\n24 отзыва\n13 апреля 2026\nОчень классно подстригли и уложили, спасибо 🫶🏻\n2 посещения\nОтзыв подтверждён\nПолезно?\nVс\nVelara, салон красоты\n21 апреля 2026, официальный ответ\nДобрый день! Спасибо вам большое за добрые слова 🙏 Ждём вас снова!\nGA\nGulmira Abisheva\n2 отзыва\n8 мая 2026, изменён\nМне понравилась мастер Тахмина.Приятная,добрая девушка,видно любит свою работу,сделала маникюр и педикюр очень деликатно и аккурвтно.\n1 посещение\nОтзыв подтверждён\nПолезно?\nНаталья Ли\n15 отзывов\n7 мая 2026\nПрихожу в салон за хорошим настроением, у мастера Тахмины хорошая энергетика, которая профессионал своего дела, не бывает такого что уходишь с плохим настроением, спасибо ☺️\nЧитать целиком\n1 посещение\nОтзыв подтверждён\nПолезно?\nAtina Yeskaliyeva\n7 отзывов\n4 мая 2026\nДелала маникюр в салоне у мастера Сеним, все очень понравилось, качественный маникюр, отличная беседа, обязательно вернусь😍\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nММ\nМарьям Мукадамова\n8 отзывов\n27 марта 2026\nБыла на днях в вашем салоне ☺️\nМастер по имени Тахмина просто уау🥰\nТак красиво сделала ногти ) спасибо ей 🥰 довольнаяяя я 🤗🥰\n1 посещение\nОтзыв подтверждён\nПолезно?\nДБ\nДана Байбекова\n2 отзыва\n5 мая 2026\nТахмина классно делает маникюр и педикюр, рекомендую !\n1 посещение\nОтзыв подтверждён\nПолезно?\nEM\nEkaterina Mobile\n6 отзывов\n11 августа 2026\nмастер Сеним очень вежливая и аккуратная 🌹\n*такой переход цвета я захотела сама 😅\n1\nПолезно?\nVс\nVelara, салон красоты\n15 августа 2026, официальный ответ\nEkaterina! Спасибо вам большое за высокую оценку ❤ Приходите, будем рады вас видеть 🙏🏼\nZhnl Zxz\n20 отзывов\n8 января 2026\nБожеее, Зашла просто узнать стоимость… и вышла довольная как слон 🥹\nВолосы — просто топ, с первого раза поняли, какой тон я хочу) Спасибо за атмосферу, аккуратность и результат, который превзошёл ожидания.\nТеперь только к вам 🥰\nЧитать целиком\n2 посещения\nОтзыв подтверждён\nПолезно?\nТахмина Айтахунова\n3 отзыва\n7 декабря 2025, изменён\nВсе мастера супер 👌🫶🙂\n\nОбслуживание на высшем уровне 🔥🔥🔥\n\nМне Очень понравилось 😻\nЧастый гость\nОтзыв подтверждён\nПолезно?\nАйми .\n12 отзывов\n28 ноября 2025\nобслужили очень быстро и хорошо🥰\n2 посещения\nОтзыв подтверждён\nПолезно?\nFermo Tezzo\n16 отзывов\n31 июля 2026\nОчень хороший салон красоты, предложили чай/кофе, сделал мужской педикюр, ноги стали легче. Спасибо мастеру Тахмине за аккуратную работу.\nПолезно?\nVс\nVelara, салон красоты\n2 августа 2026, официальный ответ\nЗдравствуйте, Fermo! Спасибо вам большое за добрые слова о нашей работе!!! Приходите к нам ещё, всегда рады 🤝\nАиша Анес\n7 отзывов\n29 июля 2026\nМастер Сенім спасибо большое !\nВсё было сделано качественно, аккуратно и красиво. Очень понравился результат. Мастер внимательный и приятный, всё прошло отлично. Обязательно приду ещё!\nЧитать целиком\n1\nПолезно?\nVс\nVelara, салон красоты\n30 июля 2026, официальный ответ\nСпасибо за такие тёплые слова!😍Нам очень приятно 🤍Ждём вас снова✨\nАйя Гайя\n6 отзывов\n5 июня 2026, изменён\nХочу от всей души поблагодарить замечательного мастера Сеним! 💖\n\nЯ очень долго искала своего мастера, так как на постоянной основе делаю маникюр с укреплением и наращивание ногтей. Для меня важно не только качество работы, но и профессионализм, аккуратность и отношение к клиенту. И я безумно рада, что наконец-то нашла именно такого специалиста!\n\nСеним мастер с золотыми руками. Каждый ноготок выполнен идеально, очень аккуратно и с любовью к своему делу. Результат превзошёл все мои ожидания я просто в восторге от такой красоты! 😍\n\nОтдельное спасибо за комфортную атмосферу, внимание к пожеланиям и приятное общение. Видно, что человек действительно любит свою работу и делает её на высшем уровне.\n\nТеперь только к вам! Спасибо за ваш труд, красоту и хорошее настроение. Искренне рекомендую всем, кто ищет настоящего профессионала своего дела! 🌷✨\nЕще салон разыгрывает айфон всем удачи там весь персонал очень крутой 🥰\nЧитать целиком\n1\nПолезно?\nVс\nVelara, салон красоты\n17 июня 2026, официальный ответ\nБольшое спасибо за ваш тёплый отзыв!\nНам очень приятно,что вы остались довольны работой нашего масте…\nAneli Ismailova\n10 отзывов\n1 марта 2026\nПростите конечно, но никому не советую данный салон\nБыла на услугах маникюра и стрижки\nМаникюр сделали ужасный, наращивание просто на 0 уровне, сама мастер очень приятная, но наращивать ногти явно не умеет\nВсе ногти разной длины, форма у всех кривая\nСидела на минуточку почти 4 часа\n\nПо поводу стрижки: сказали стрижка+укладка 15тыс, я согласилась, по итогу мне помыли голову, выпрямили волосы и машинкой ровно срезали волосы\nПодстригли конечно нормально, но укладку не сделали\nАдминистратор сказала что раз не было укладки 12тыс стрижка обойдется, то есть сначала говорят что сделают укладку, а по факту не сделали. А если у меня были какие-то планы на укладку? Вдруг она была мне нужна\nНе приятно просто по факту узнавать что ее не сделают\nЗа такую услугу в любом салоне отдала бы не больше 8-10тыс, и укладку бы еще сделали шикарную\n\nПерсонал очень хороший, но цены завышены и услуги оказывают не по уровню стоимости\nАдминистрация постаралась решить вопрос с наращиваем, сделали оплату только за материал, за что им конечно спасибо, но потраченное время и настроение не вернуть\n\nДумала что не буду писать негативный отзыв, но решила что могу уберечь кого-то от потраченных в пустую денег и времени\nЧитать целиком\n1 посещение\nОтзыв подтверждён\n9\nПолезно?\nVс\nVelara, салон красоты\n12 марта 2026\nСәлеметсіз бе! Өтінеміз, біздің компанияның клиенті болғаныңызды растаңыз. Ол үшін келесі нұсқаларды…\nЮлия П\n6 отзывов\n10 июля 2026\nПришла на ботокс волос, я делала биозавивку месяца три назад перед ботоксом, спросила у мастера смогут ли убрать пушистость, сказали смогут.\nКаждый раз когда мне расчесывали волосы вырывали волосы клочками, было очень больно, после процедуры на следующий день к коже головы было больно прикоснуться.\nПосле процедуры волосы выглядели хорошо но на вечер было видно отросшие корни которые были после биозавивки и далее длина которая так и осталась пушистой.\nНаписала на вацап в салон, сказали что нужно было сделать кератин если я хотела прямые волосы и предложили прийти переделать работу, но извините я не прийду, снова вырвут половину волос.\nЗа 35 тысяч на тоненькие и не густые волосы мне частично убрали волну и пушистость и вырвали половину волос.\n(На фото в зеркале фото до, и далее фото после процедуры, не в самом лучшем качестве, но видно прямые корни и полупушистую длину с небольшими волнами)\nЧитать целиком\nПолезно?\nVс\nVelara, салон красоты\n12 июля 2026, официальный ответ\nЮлия добрый день .Мы попросили вас сделать отчет фото,после мытья головы ,но вы проигнорировали нашу…\nВсе комментарии\nUlbolsyn Abimolda - Slot\n19 отзывов\n28 декабря 2025\nСупер место. Спасибо Салиху за отличную стрижку моих 3-х пацанов. Примерно 4-5 год мы ходим только к нему и всегда все супер!\n1 посещение\nОтзыв подтверждён\nПолезно?\nElvira Niyazova\n7 отзывов\n4 мая 2026, изменён\nПонравилась мастер Сенім. Очень аккуратный и качественный маникюр. Мастер доброжелательная и вежливая, внимательно учитывает пожелания клиента. Осталась очень довольна дизайном.\nЧитать целиком\n2\nПолезно?\nАХ\nАсель Хамитова\n3 отзыва\n25 апреля 2026, изменён\nОчень довольна маникюром 😍 Френч получился просто идеальный — аккуратно, красиво и очень нежно. Мастер Сеним работает внимательно и с душой, все сделано качественно и чисто. Осталась в восторге, обязательно приду еще 💅✨\nЧитать целиком\n1\nПолезно?\nАсель Б\n4 отзыва\n23 сентября 2026\nЗдравствуйте, хочу оставить отзыв то что Таисия это мастер своего дела,была у нее на шугаринге она всё сделала быстро и без болезненно.\nА ещё она делает замечательный массажа лица и тела, оздоровительный комплексный массаж тела это просто шикарно,самый лучший мастер и она это всё делает с любовью и заботой\nЧитать целиком\nПолезно?\nVс\nVelara, салон красоты\n27 сентября 2026, официальный ответ\nАсель! Спасибо, что уделили время и написали отзыв 😌 Приходите, будем рады вас видеть 💛\nФБ\nФатима Бачаева\n3 отзыва\n17 сентября 2026\nСамый лучший мастер своего дела Таисия прошла курс массажа все супер на высшем уровне,прям почувствовала облегчение у вас золотые ручки ❤️\nПолезно?\nVс\nVelara, салон красоты\n20 сентября 2026, официальный ответ\nДобрый вечер! Спасибо за отзыв!!! Приходите, будем рады вас видеть!🌸\nZZ\nZarina Zandarova\n2 отзыва\n16 сентября 2026\nХочу оставить отзыв о Таисии ❤️ Хожу к ней на шугаринг уже больше 5 лет и за всё это время ни разу не захотела поменять мастера. Таисия — настоящий профессионал своего дела! Всегда аккуратно, быстро, качественно и с заботой о клиенте.\n\nОчень приятная атмосфера, всегда комфортно и спокойно. Видно, что человек любит свою работу и относится к ней с душой. За 5 лет я полностью ей доверяю и с уверенностью могу рекомендовать Таисию всем, кто ищет хорошего мастера! 🌷\n\nТаисия, спасибо тебе за твой труд, заботу и красоту! ❤️\nЧитать целиком\nПолезно?\nVс\nVelara, салон красоты\n16 сентября 2026, официальный ответ\nZarina, добрый день! Благодарим за приятный отзыв 😉 Будем стараться и дальше 💛\nОМ\nОльга Майорова\n1 отзыв\n16 сентября 2026\nБольшое спасибо Таисия,быстрая окуратная работа,все гладенько, ощущение космос,в работе окуратность и чистоплотность,ваша улыбка заставляет забыть какую процедуру я прохожу💓\nЧитать целиком\nПолезно?\nVс\nVelara, салон красоты\n16 сентября 2026, официальный ответ\nОльга! Благодарим вас за отзыв и высокую оценку, мы всегда вам рады 💛\nAГ\nApple Гульвира\n3 отзыва\n16 сентября 2026\nНачала заниматься своим здоровьем ❤️\nПрохожу курс у Таисии: массаж, термоодеяло и микротоки для спины.\n\nПрошло всего 4 дня — энергии стало больше, боли намного меньше 🙏🏻\nТаисия — настоящий волшебник всех аппаратов и человек, который знает о теле ВСЁ! 👍\nЧитать целиком\n1\nПолезно?\nVс\nVelara, салон красоты\n16 сентября 2026, официальный ответ\nДобрый вечер, Apple. Благодарим вас, что уделили время и написали отзыв 😌 Рады сотрудничеству!\nЗУ\nЗарина Ушурова\n2 отзыва\n16 сентября 2026\nХочу оставить огромную благодарность мастеру за прекрасную работу! 🥰 Всё прошло очень аккуратно, быстро и практически без дискомфорта. Мастер очень внимательная, вежливая и приятная в общении, чувствуется профессионализм и любовь к своему делу ❤️\nРезультатом очень довольна — кожа гладкая, всё идеально чисто и аккуратно. Обязательно буду возвращаться снова и с удовольствием рекомендую мастера! 🌷✨Мастер Таисия❤️\nЧитать целиком\nПолезно?\nVс\nVelara, салон красоты\n16 сентября 2026, официальный ответ\nДобрый день, спасибо большое за добрые слова, с нетерпением будем ждать Вашего возвращения ❤️\nАН\nАния Наурызбекова\n17 отзывов\n16 сентября 2026\nТаисия ,огромная благодарность 🙏 нашла того самого человека,кто смог мне помочь золотые руки ♥️ прошли курс висцерального массажа и классический 🔥🔥🔥\nЧитать целиком\n1\nПолезно?\nVс\nVelara, салон красоты\n16 сентября 2026, официальный ответ\nДобрый вечер, Ания! Спасибо большое за отзыв 🙏 Будем рады Вас видеть ❤️\nАЯ\nАлла Яровая\n1 отзыв\n31 августа 2026\nХочу сказать спасибо мастеру маникюра Сеным!! Это лучший мастер,очень акуратно, очень грамотно делает маникюр. Долго искала мастера с таким опытом и пониманием какой именно маникюр лучше делать.\nЧитать целиком\n1\nПолезно?\nVс\nVelara, салон красоты\n31 августа 2026, официальный ответ\nЗдравствуйте, Алла. Спасибо большое за приятный отклик 😌 Приходите, будем рады вас видеть.\nmoron syzlak\n6 отзывов\n13 августа 2026\nОтличный сервис и супер мастера! Нужен был быстрый маникюр и педикюр утром, мастер Тахмина сделала все на высшем уровне!\nПолезно?\nVс\nVelara, салон красоты\n14 августа 2026, официальный ответ\nДобрый вечер. Спасибо вам за высокую оценку. Мы стараемся 😉\nRoman Molchanov\n15 отзывов\n31 мая 2026\nОгромное спасибо Тахмине, это был мой первый маникюр\nПолезно?\nVс\nVelara, салон красоты\n4 июля 2026, официальный ответ\nДобрый вечер! Спасибо большое за приятный отклик ❤ Будем ждать вас снова 🤝\nКира Баянова\n56 отзывов\n15 мая 2026, изменён\nЗаписалась через Zapis.kz, где было четко указано, что мытье головы стоит 3000. По факту взяли 5000. Говорят, что мужское 3000, а женское 5000. Хотя в приложении четко указано, что там женское и 3000 цена. Фото прилагаю. Больше однозначно сюда не приду!\nЧитать целиком\nПолезно?\nИЖ\nИндира Жунусбай\n21 отзыв\n2 октября 2026, изменён\nПришлось удалить свой комментарий только из-за уважения к простым людям которые работают в этом салоне, мое уважение Екатерине и Сеним.\nПолезно?\nАльта Кожамуратов\n18 отзывов\n2 сентября 2026, изменён\nДай бог здоровья моему парикмахеру пусть у него все будет хорошо в жизни, потому что он делает то что ему лучше не надо не ходите сюда 😄 отращивал долго приворотил меня в некрасивого человека если хотите такую же стрижку тогда рекомендую этот салон и волосатого парикмахера еще раз спасибо этому салону 😄😄😄\nЧитать целиком\nПолезно?\nVс\nVelara, салон красоты\n4 сентября 2026, официальный ответ\nЗдравствуйте! Подтвердите пожалуйста , что Вы были клиентом нашей компании, для этого выберите один…\nВсе комментарии\nSG\nSvetlana Grigor\n22 отзыва\n25 сентября 2026, изменён\nСпасибо за эпиляцию Мастеру Сеним. Впервые процедура прошла для меня безболезненно\n1\nПолезно?\nVс\nVelara, салон красоты\n25 сентября 2026, официальный ответ\nЗдравствуйте, Svetlana. Спасибо большое, очень приятно получать обратную связь 🔥 Мы старались 💛\n♱ 🪙\n1 отзыв\n20 сентября 2026\nотличный салон😍\nПолезно?\nVс\nVelara, салон красоты\n20 сентября 2026, официальный ответ\nДобрый день! Огромное спасибо за добрые слова о нашей работе 😌 Мы рады, что вам всё понравилось.\n$ayle Israilova\n3 отзыва\n19 сентября 2026\nТаисия- лучший мастер своего дела ,золотые ручки ❤️приходите не пожалеете 💐.\n1\nПолезно?\nVс\nVelara, салон красоты\n20 сентября 2026, официальный ответ\nДобрый вечер, спасибо вам за ваш отзыв 😉 Будем рады Вас видеть 🧡\nА\nАндрей\n32 отзыва\n31 августа 2026, изменён\nКлассный салон, крутые мастера!!! Рекомендасьон👍👍👍\nПолезно?\nVс\nVelara, салон красоты\n4 сентября 2026, официальный ответ\nБольшое спасибо, что выбрали нас. Ждём вас вновь 💛\nn\nnu1i2a\n5 отзывов\n5 августа 2026\nХочу выразить огромную благодарность салону! ❤️ Делала маникюр у мастера Сезим-работа просто великолепная, всё выполнено очень аккуратно, красиво и с большим вниманием к деталям. Очень понравился результат!Также хочется отметить весь персонал- все очень вежливые, доброжелательные и внимательные. В салоне невероятно приятная атмосфера, чувствуешь себя комфортно с первых минут. Осталась очень довольна, обязательно вернусь снова! Спасибо вам большое! 🫶\nЧитать целиком\n1\nПолезно?\nVс\nVelara, салон красоты\n7 августа 2026, официальный ответ\nДобрый вечер, Nuriya! Большое спасибо, что оценили 🔥 Всегда рады вам ❤\nQQ\nQieieiri Qieirittitii\n17 отзывов\n30 июля 2026\nХороший салон , делала педикюр , все на высшем уровне. Пятки гладкие, форма ногтей опрятная, покрытие ровное без «капель».\nДевушки рекомендую👍\nПолезно?\nVс\nVelara, салон красоты\n30 июля 2026, официальный ответ\nДобрый день! Благодарим вас за такой тёплый отзыв🫶🏻Ждём вас снова к нам в гости🤍\nHW\nHappy Wife\n67 отзывов\n25 июля 2026\nПонравилось отношение к клиентам.\nМастер работал аккуратно и объяснял каждый этап процедуры. Результат оправдал ожидания.\nПолезно?\nVс\nVelara, салон красоты\n27 июля 2026, официальный ответ\nДобрый день, спасибо большое за отзыв!!!Ждем Вашего возвращения 🧡\nAssel Muratova\n4 отзыва\n16 июля 2026\nБурак Благодарю,за профессионализм и прекрасную работу! Пусть ваше мастерство приносит радость людям, а вам — успех, процветание и благодарных клиентов! ✨\nЧитать целиком\nПолезно?\nVс\nVelara, салон красоты\n16 июля 2026, официальный ответ\nАссель, благодарим Вас за такой приятный отзыв, с нетерпением будем ждать Вашего визита ❤️\nGM\nG M\n11 отзывов\n8 июля 2026\nХочу оставить отзыв о мастере Сеним. Я хожу к ней уже не первый раз, и каждый раз убеждаюсь, что она настоящий профессионал своего дела.\n\nС первого посещения мне очень понравилось, насколько аккуратно, внимательно и качественно она работает. Маникюр и педикюр всегда безупречные, всё сделано очень тщательно и с большим вниманием к деталям. Даже то, на что многие мастера не обращают внимания, Сеним обязательно доводит до идеала.\n\nОчень приятно приходить к человеку, который действительно любит свою работу и делает её на высшем уровне. Результат всегда превосходит ожидания. Искренне рекомендую Сеним всем, кто ищет профессионального, ответственного и талантливого мастера!\nЧитать целиком\n1\nПолезно?\nVс\nVelara, салон красоты\n9 июля 2026, официальный ответ\nG! Большое спасибо за высокую оценку 💛 Рады работать для вас 🤗\nНУ\nНазым Умирхалыкова\n3 отзыва\n4 июля 2026\nОчень хороший салон. Огромная благодарность мастеру Сенім!🫶🏻 Профессионал своего дела👍🏻 очень красивый и нежный дизайн получился 🥰\n1\nПолезно?\nVс\nVelara, салон красоты\n4 июля 2026, официальный ответ\nДобрый вечер, Назым, благодарим Вас,очень приятно получать обратную связь с нетерпением будем ждать Вашего следующего визита 🧡\namikosha 🦢\n10 отзывов\n21 июня 2026\nужасный салон, красила там пряди в красный смылись через неделю так еще и за вот этот ужас просят 30 к максимум 3-5 к кошмар.\nЧитать целиком\nПолезно?\nVс\nVelara, салон красоты\n23 июня 2026, официальный ответ\nЗдравствуйте!Нам ,очень жаль,что результат вас расстроил.Стойкость цвета зависит от исходного состоя…\nRU\nRmniqy Uxeying\n90 отзывов\n14 июня 2026\nСтричь не умеют! Выкинули 10 тысяч за стрижку! \"Мастер\" отвлекается при стрижке, держит ножницы отвлекается на разговор с человеком пришедшим с улицы. Это небезопасно! Не знает последние тренды в стрижках, стрижку не ровнял, пожелания не выполнил. Отвлекался на разговоры со своими дружками и пил кофе, у него на это ушло больше времени чем на стрижку. Не мастер вовсе!\nЧитать целиком\n1\n1\nПолезно?\nVс\nVelara, салон красоты\n17 июня 2026, официальный ответ\nЗдравствуйте благодарим вас за обратную связь!\nНам искренне жаль,что после посещения нашего салона у…\nВсе комментарии\nДА\nДинара Акимберди\n7 отзывов\n23 января 2026, изменён\n“Velara”салонына өзімнің ыстық ықыласымды білдіргім келеді. Әсіресе Бурак мырзаның шаш бояу және қиюдағы шеберлігін өте жоғары бағалаймын. Бұған дейін көптеген мастерлерге жүгініп көрдім, алайда олардың жұмысына көңілім толмайтын. Себебі шашым қатты зақымдалып, ай сайын қайта-қайта бояуға мәжбүр болатынмын. Ал Бурак мырза шаштың жағдайын ескеріп, кәсіби әрі ұқыпты жұмыс жасайды. Нәтижесі керемет: шашым сау, түсі әдемі әрі ұзақ сақталады. Өз ісінің нағыз маманы деп сеніммен айта аламын. “Velara”салонын және Бурак мырзаны шын жүректен ұсынамын!❤️\nЧитать целиком\n1\nПолезно?\nGA\nGaukhar Abdirova\n9 отзывов\n27 мая 2026\nОтличный салон! Хожу сюда на маникюр и педикюр к мастеру Сеним, очень довольна её работой! Она высококвалифицированный мастер, работает очень аккуратно, тщательно и стерильно!\nЧитать целиком\n1\nПолезно?\nС .\n2 отзыва\n15 мая 2026, изменён\nБыл у мастера Тахмины, делал маникюр, отличный мастер, всё аккуратно и чисто. Результат понравился. Рекомендую. Теперь буду ходить сюда))\nСпасибо\nПолезно?\nИ\nИндира\n1 отзыв\n7 мая 2026, изменён\nОтличный мастер Сеним на все руки😍 Делала ламинирование ресниц и бровей, наращивание ногтей, педикюр и депиляцию. Качественно и аккуратно, красиво. Видно большой опыт, очень внимательная и приятная в общении. Результат супер, рекомендую!\nЧитать целиком\n1\nПолезно?\nSK\nSaltanat Kulbaeva\n17 отзывов\n6 мая 2026\nТамина, мастер по маникюру и педикюру, очень бережно и с заботой почистит ваши перышки, спаибо очень нравится\nДа и мастера там все хорошие, работают всей душой, любят свою деятельность 🤗\nЧитать целиком\nПолезно?\nAA\nAsem Asem\n3 отзыва\n4 апреля 2026\nМы ходим всей семьей в салон, очень приветливый персонал . Хочу поблагодарить мастера Суата и Седата профессионалы своего дела .\n1\nПолезно?\nЖ\nЖанар\n2 отзыва\n4 апреля 2026\nХочу оставить отзыв о салоне красоты. Очень довольна обслуживанием!\nМужской мастер Суат — настоящий профессионал своего дела. Работает аккуратно, внимательно относится к деталям, результат всегда отличный. Видно, что у него большой опыт и хороший вкус.\nЖенские мастера Седат также порадовали своим мастерством. Очень вежливые, доброжелательные и внимательные к пожеланиям клиента. Делают всё качественно и с душой.\nВ салоне приятная атмосфера, чисто и уютно. Обязательно буду приходить ещё и рекомендовать знакомым!\nЧитать целиком\n1\nПолезно?\nG\nGoha\n19 отзывов\n2 апреля 2026, изменён\nВ салоне шикарная атмосфера!\nХожу к мастеру Сеним уже много лет, ещё со времён акриловых ногтей и наращивания ресниц. Сейчас делаю ламинирование ресниц и ПМ бровей и губ. Очень удобно, что мастер универсальный и всё можно сделать в одном месте. У неё правда золотые руки, всегда всё аккуратно и результат радует. Уже столько лет хожу и всегда довольна, от души рекомендую!\nЧитать целиком\n1\nПолезно?\nAlexandra Budkina\n13 отзывов\n28 марта 2026\nДелала маникюр и педикюр у мастера Тахмины и осталась очень довольна.\nОна внимательная, аккуратная и сразу понимает, какой результат хочется. Всё сделано чисто, форма идеальная, покрытие ровное, выглядит красиво и аккуратно. С удовольствием рекомендую🤍\nЧитать целиком\nПолезно?\nYA\nY A\n4 отзыва\n28 марта 2026\nМастер Тахмина понравилась! Делала маникюр без покрытия у неё, всё красиво и чисто. Спрашивает и прислушивается к комментам клиента, что очень приятно видеть. В целом приятный человек)\nЧитать целиком\nПолезно?\nelvenlemonade .\n53 отзыва\n2 мая 2026, изменён\nМастер Тахмина отличный: подход к клиенту, внимательность, софт скилы на высоте, но... 01 мая абсолютно разочаровалась в салоне и их администрации.\nЯ записывалась заранее, пришла, а вместо меня сидел другой человек, потому что у них перебои с интернетом (понимаю, но ведите тогда записи вручную). Пришлось им того человека сгонять с кресла, чтобы посадить меня, что было неприятно. Все извинились, администратор Байсангур предложил напитки...и ушел чтобы залипать в телефон. Вторая девушка которая там ходила и назвалась вторым админом тоже где-то залипала в телефон (зато как только вопрос оплаты встал, сразу же прибежала спотыкаясь). Отсутствие перенесенного стакана воды (не чая, воды простой) заметил только мастер.\nПри том содрали полную цену. Честно говоря, за эту цену лучше буду ходить в другой салон.\nЧитать целиком\nПолезно?\nVelara, салон красоты\n15 мая 2026\nСәлеметсіз бе! Өтінеміз, біздің компанияның клиенті болғаныңызды растаңыз. Ол үшін келесі нұсқаларды…\nDS\nDinara Sadenova\n4 отзыва\n24 мая 2026\nБыла у мастера Сеним, лучший мастер, все понравилось, аккуратно, быстро и качественно\n2\nПолезно?\nVс\nVelara, салон красоты\n4 июля 2026, официальный ответ\nDinara, здравствуйте! Благодарим за высокую оценку. Мы рады, что вам всё понравилось 😁\nMК\nMariyam К\n6 отзывов\n19 мая 2026\nКлассный салон ! Профессиональные мастера и приятные админы салона.\nПолезно?\nVс\nVelara, салон красоты\n4 июля 2026, официальный ответ\nДобрый день! Благодарим вас за приятный отклик 🤗 Ждём вас в гости снова 💛\nВБ\nВиктория Бондарчук\n5 отзывов\n15 мая 2026\nТахмина супер мастер\nПолезно?\nАЛ\nАнатолий Лим\n2 отзыва\n5 мая 2026\nТахминчик самый крутой мастер! Здоровья, счастья и любви!!!\nПолезно?\nММ\nМаксим Мирный\n13 отзывов\n25 марта 2026\nКомфортно быстро и хорошо. Спасибо\nПолезно?\nДамира Шарбахынова\n8 отзывов\n31 декабря 2025\nспасибо большое админу Жания, помогла со всем разобраться, и нашла мне хорошего мастера Кенан и Седат👍\nПолезно?\nGulnara Aubakirova\n8 отзывов\n10 декабря 2025\nЯ записалась онлайн на маникюр, впервые в этом салоне, выбрала рандомного мастера . Но к сожалению, а может быть и нет , мастер не принимал в этот день. Я попала к другому мастеру Тахмина , мне все понравилось, она между своими клиентами приняла меня. Быстро, аккуратно все сделала. Очень приятная девушка. Сам салон тоже понравился и интерьер и вежливость персонала. Ставлю кучу звёзд)\nЧитать целиком\nПолезно?\nКР\nКамиль Ростов\n1 отзыв\n25 ноября 2025\nОчень торопился на встречу. Спасибо за оперативность. Подстригли шикарно.\nПолезно?",
+      "links": [
+        {
+          "text": "Маршрут",
+          "href": "https://2gis.kz/almaty/directions/points/%7C76.950923%2C43.232816%3B70000001109698727"
+        },
+        {
+          "text": "Контакты",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727"
+        },
+        {
+          "text": "Инфо",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727/tab/info"
+        },
+        {
+          "text": "Отзывы 76",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727/tab/reviews"
+        },
+        {
+          "text": "Цены",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727/tab/menu"
+        },
+        {
+          "text": "Фото 25",
+          "href": "https://2gis.kz/almaty/gallery/firm/70000001109698727"
+        },
+        {
+          "text": "Вопросы",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727/tab/questions"
+        }
+      ]
+    },
+    "features": {
+      "url": "https://2gis.kz/almaty/firm/70000001109698727/tab/info",
+      "title": "Velara, салон красоты на карте, Студии ногтевого сервиса, Алматы — 2ГИС",
+      "heading": "Velara",
+      "meta": "Velara, салон красоты: адреса со входами на карте, отзывы, фото, номера телефонов, время работы и как доехать. Женский педикюр, Наращивание гелем, Наращивание акрилом, Мужской маникюр, Детский маникюр, Японский маникюр, Гель-лак, Аппаратный маникюр, Парафиновые ванночки, Мужской педикюр",
+      "text": "Сохранить\nОтправить\nМаршрут\nVelara \nСалон красоты\n4.8\nПодтверждён\n(94)\nКонтакты\nИнфо\nОтзывы\n76\nЦены\nФото\n25\nВопросы\nПарикмахерские\n​Жен.стрижка от 12000 тнг.​Муж.стрижка от 10000 тнг.​Детская стрижка​Стрижка бороды​Кератиновое выпрямление​Женская химзавивка​Мужская химзавивка​Сложное окрашивание​Афрокудри​Ботокс волос​Полировка волос​Стрижка горячими ножницами​Свадебные и вечерние причёски​Нанопластика волос​Прикорневой объём волос​Холодное восстановление волос\nНогтевые студии\n​Женский педикюр​Наращивание гелем​Наращивание акрилом​Мужской маникюр​Детский маникюр​Японский маникюр​Гель-лак​Аппаратный маникюр​Парафиновые ванночки​Мужской педикюр\nРесницы и брови\n​Наращивание ресниц​Ламинирование ресниц​Окрашивание ресниц​Коррекция бровей​Окрашивание бровей​Ламинирование бровей\nSPA-процедуры\nSPA для головы\nВиды эпиляции\n​Шугаринг​Восковая эпиляция​Мужская эпиляция\nДополнительно\nWi-Fi для клиентов\nСпособы оплаты\n​Оплата картой​Наличный расчёт​Оплата через банк​Оплата по QR-коду\nДоступность\nМожно с собакой\nВ справочнике\n​Ногтевой сервис​Парикмахерские услуги​Эпиляция​Визажисты​Оформление бровей и ресниц\nПарковка\n​102 места​Платная\n​53 места​Платная\n​86 мест​Платная\nТранспорт\n1\nАбая\n​15 мин​1.5 км\n26 парковок\nТакже люди ищут\n​Маникюр рядом​Салон красоты​Премия 2гис\nНашли ошибку в данных?\n​Это моя компания​Реклама в 2ГИС ↗\n​2ГИС для Android​2ГИС для iOS\nДобавить заметку",
+      "links": [
+        {
+          "text": "Маршрут",
+          "href": "https://2gis.kz/almaty/directions/points/%7C76.950923%2C43.232816%3B70000001109698727"
+        },
+        {
+          "text": "Контакты",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727"
+        },
+        {
+          "text": "Инфо",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727/tab/info"
+        },
+        {
+          "text": "Отзывы 76",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727/tab/reviews"
+        },
+        {
+          "text": "Цены",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727/tab/menu"
+        },
+        {
+          "text": "Фото 25",
+          "href": "https://2gis.kz/almaty/gallery/firm/70000001109698727"
+        },
+        {
+          "text": "Вопросы",
+          "href": "https://2gis.kz/almaty/firm/70000001109698727/tab/questions"
+        },
+        {
+          "text": "Ногтевой сервис",
+          "href": "https://2gis.kz/almaty/search/%D0%9D%D0%BE%D0%B3%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81/rubricId/5603"
+        },
+        {
+          "text": "Парикмахерские услуги",
+          "href": "https://2gis.kz/almaty/search/%D0%9F%D0%B0%D1%80%D0%B8%D0%BA%D0%BC%D0%B0%D1%85%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B5%20%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8/rubricId/305"
+        },
+        {
+          "text": "Эпиляция",
+          "href": "https://2gis.kz/almaty/search/%D0%AD%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F/rubricId/110816"
+        },
+        {
+          "text": "Визажисты",
+          "href": "https://2gis.kz/almaty/search/%D0%92%D0%B8%D0%B7%D0%B0%D0%B6%D0%B8%D1%81%D1%82%D1%8B/rubricId/58858"
+        },
+        {
+          "text": "Оформление бровей и ресниц",
+          "href": "https://2gis.kz/almaty/search/%D0%9E%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B1%D1%80%D0%BE%D0%B2%D0%B5%D0%B9%20%D0%B8%20%D1%80%D0%B5%D1%81%D0%BD%D0%B8%D1%86/rubricId/110355"
+        },
+        {
+          "text": "Абая",
+          "href": "https://2gis.kz/almaty/station/9430197698823103"
+        },
+        {
+          "text": "Маникюр рядом",
+          "href": "https://2gis.kz/almaty/search/%D0%9C%D0%B0%D0%BD%D0%B8%D0%BA%D1%8E%D1%80%20%D1%80%D1%8F%D0%B4%D0%BE%D0%BC"
+        },
+        {
+          "text": "Салон красоты",
+          "href": "https://2gis.kz/almaty/search/%D0%A1%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B"
+        },
+        {
+          "text": "Премия 2гис",
+          "href": "https://2gis.kz/almaty/search/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F%202%D0%B3%D0%B8%D1%81"
+        },
+        {
+          "text": "Это моя компания",
+          "href": "https://redirect.2gis.com/account/?language=ru&id=67&firmId=70000001109698726&utm_source=online&utm_medium=product&utm_campaign=firmcard"
+        },
+        {
+          "text": "Реклама в 2ГИС ↗",
+          "href": "http://redirect.2gis.com/adv/?language=ru&page=online_owner&id=67&calculate_for=70000001109698727&utm_source=online&utm_medium=product&utm_campaign=firmcard"
+        },
+        {
+          "text": "2ГИС для Android",
+          "href": "https://2gis.onelink.me/oJqA?af_js_web=true&af_ss_ver=2_7_2&pid=online&c=cardFooter&deep_link_value=dgis://2gis.kz/almaty/firm/70000001109698727/tab/info&af_sub4=online&af_sub5=cardFooter&af_ss_ui=true&af_dp=https://"
+        },
+        {
+          "text": "2ГИС для iOS",
+          "href": "https://2gis.onelink.me/65w0?af_js_web=true&af_ss_ver=2_7_2&pid=online&c=cardFooter&deep_link_value=dgis://2gis.kz/almaty/firm/70000001109698727/tab/info&af_sub4=online&af_sub5=cardFooter&af_ss_ui=true&af_dp=https://"
+        }
+      ]
+    },
+    "gallery": {
+      "url": "https://2gis.kz/almaty/gallery/firm/70000001109698727",
+      "title": "Velara, салон красоты на карте, Студии ногтевого сервиса, Алматы — 2ГИС",
+      "heading": "Velara",
+      "meta": "Velara, салон красоты: адреса со входами на карте, отзывы, фото, номера телефонов, время работы и как доехать. Женский педикюр, Наращивание гелем, Наращивание акрилом, Мужской маникюр, Детский маникюр, Японский маникюр, Гель-лак, Аппаратный маникюр, Парафиновые ванночки, Мужской педикюр",
+      "text": "4.8\nVelara\nСалон красоты\nВсе25\nВидео1\nВнутри1\nУслуги19\nИнвентарь1\n…\nРеклама\nKara Beauty Lounge\nЖиви красиво с Kara Beauty Lounge",
+      "links": []
+    }
+  },
+  "gallery_by_category": {
+    "Все": [
+      "https://i6.photo.2gis.com/photo-gallery/2604dc8a-2c64-4eb2-bb9f-19bf7f3c5b84_328x170.jpg",
+      "https://i1.photo.2gis.com/photo-gallery/e26b19b6-9c84-4dec-ad39-54c3a5c9da11_328x170.jpg",
+      "https://i6.photo.2gis.com/photo-gallery/a069160b-bdeb-4073-86b0-8a5326f5c776_328x170.jpg",
+      "https://i4.photo.2gis.com/photo-gallery/d2dd12b2-43d0-4ca4-94ea-3b496776d4dd_328x170.jpg",
+      "https://i4.photo.2gis.com/photo-gallery/850bc345-afa4-41d2-9955-69d1bf4049ad_328x170.jpg",
+      "https://i7.photo.2gis.com/photo-gallery/4254fbdc-cd0c-4a2e-8c4e-bc321867bdb2_328x170.jpg",
+      "https://i1.photo.2gis.com/photo-gallery/3f68c9e7-0d49-4416-bd9d-1c905aff738c_328x170.jpg",
+      "https://i4.photo.2gis.com/photo-gallery/df188657-4c00-4bd7-9a7a-ab12d5b7e66e_328x170.jpg",
+      "https://i4.photo.2gis.com/photo-gallery/6636a6f7-c0af-45a9-ae4c-533e6e547f2e_328x170.jpg",
+      "https://i8.photo.2gis.com/photo-gallery/6c9adbd6-5b52-4386-836d-36f6311616d1_328x170.jpg",
+      "https://i1.photo.2gis.com/photo-gallery/2cecd22e-357e-41da-a4c4-8a99e04fec3c_328x170.jpg",
+      "https://i6.photo.2gis.com/photo-gallery/cab7c1ec-49d8-4484-a390-11e34c85a5a7_328x170.jpg",
+      "https://i8.photo.2gis.com/photo-gallery/c462d570-a623-457d-ace9-34fab3ce50b6_328x170.jpg",
+      "https://i8.photo.2gis.com/photo-gallery/bf98cad4-36a9-491a-ae7a-9ac0d91719a9_328x170.jpg",
+      "https://i0.photo.2gis.com/photo-gallery/2154511a-28eb-4e61-b258-6a6646cdb377_328x170.jpg",
+      "https://i3.photo.2gis.com/photo-gallery/81e83940-bc7a-4c47-896f-e4ad376f447a_328x170.jpg",
+      "https://i9.photo.2gis.com/photo-gallery/e91ad9f8-5ba6-4303-a718-b8bb26ecd78e_328x170.jpg",
+      "https://i5.photo.2gis.com/photo-gallery/801e6ae1-3b7c-4e95-a8d9-26b8fa343161_328x170.jpg",
+      "https://i1.photo.2gis.com/photo-gallery/a4a91482-df49-43ce-a7fb-2040d43af583_328x170.jpg",
+      "https://i9.photo.2gis.com/photo-gallery/415d97fb-c080-4eda-9270-6f36ff1bba82_328x170.jpg",
+      "https://i4.photo.2gis.com/photo-gallery/f734c555-aa36-4f49-a71b-e31d48560afa_328x170.jpg",
+      "https://i4.photo.2gis.com/photo-gallery/7ab3c952-2040-44bd-adc0-b8ad578d152b_328x170.jpg",
+      "https://i2.photo.2gis.com/photo-gallery/626d263f-710f-4373-b83c-387284d944a1_328x170.jpg",
+      "https://i8.photo.2gis.com/photo-gallery/3b6224f7-7883-4c25-ac4b-05e7bb1df0a6_328x170.jpg"
+    ]
+  },
+  "warnings": [
+    "Услуги не удалось разложить по полям. Проверьте сырой раздел SERVICES в business.txt.",
+    "Logo и Team не создаются без подтверждённого логотипа и данных о конкретных мастерах."
+  ],
+  "download_failures": [],
+  "requested_photo_limit": 35,
+  "gallery_links_found_raw": 24,
+  "gallery_urls_found": 24,
+  "photo_reviewed": true,
+  "salon_photo_limit": 3,
+  "photo_review_summary": {
+    "works": 19,
+    "salon": 2,
+    "deleted": 1
+  }
+}
